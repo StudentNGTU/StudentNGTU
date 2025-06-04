@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour hassounds="0" start="node4" apprev="20995" appversion="7.1.9">
+<tour appversion="7.1.9" apprev="20995" start="node4" hassounds="0">
   <panorama id="node4">
-    <input width="1680" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1680" overlap="1">
-      <level width="1680" preload="0" height="1680" predecode="0"/>
-      <level width="840" preload="0" height="840" predecode="0"/>
-      <level width="420" preload="1" height="420" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="1680" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1680" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="1680" height="1680" preload="0"/>
+      <level predecode="0" width="840" height="840" preload="0"/>
+      <level predecode="1" width="420" height="420" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="103.8" fovmode="2">
-      <start pan="140.412" tilt="-3.81769" projection="4" fov="120"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view fovmode="2" pannorth="103.8">
+      <start projection="4" pan="140.412" tilt="-3.81769" fov="120"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fovstereographic="330" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="140"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
     </view>
-    <userdata latitude="55.003447" author="" heading="103.8" longitude="45.309053" altitude="196.21" title="Сени" customnodeid="" nodeid="node4" datetime="03.04.2025 14:20" info="" comment="" description="" tags="" source="" copyright=""/>
-    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
-      <label enabled="1" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-133.49" tilt="-13.59" id="to_remeslo_left" title="Хозяйственная половина" target="" url="{node5}" description="" distance="4.42685" skinid="ht_node"/>
-      <hotspot pan="-305.55" tilt="-11.12" id="to_remeslo_right" title="Чистая половина" target="" url="{node6}" description="" distance="13.2853" skinid="ht_node"/>
-      <hotspot target="" pan="-39.19" tilt="-11.42" url="" description="" id="to_street" title="На улицу" skinid="ht_node"/>
-      <hotspot target="" pan="-75.75" tilt="-3.58" url="images/__.jpg" description="" id="Point01" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-104.56" tilt="5.51" url="images/_.jpg" description="" id="Point02" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-329.23" tilt="10.1" url="images/_-1.jpg" description="" id="Point03" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-182.74" tilt="-5.17" url="images/__-1.jpg" description="" id="Point04" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-235.42" tilt="3.3" url="images/__-2.jpg" description="" id="Point05" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-284.52" tilt="9.92" url="images/_-2.jpg" description="" id="Point06" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-250.24" tilt="-6.98" url="images/_-3.jpg" description="" id="Point07" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-250.99" tilt="12.16" url="images/_-4.jpg" description="" id="Point08" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-221.3" tilt="17.72" url="" description="     Вотчинная контора (флигель) – типичное административное здание первой половины XIX века. Постройка восстановлена в 70-х гг. двадцатого века по старинным планам, документам, фотографиям.&#xa;&#xa;     По свидетельствам последнего болдинского владельца, внучатого племянника поэта Льва Анатольевича  Пушкина, в свой третий приезд в Болдино в 1834 году Александр Сергеевич останавливался в вотчинной конторе, так как господский дом был на ремонте." id="Point09" title="Аннотация" skinid="ht_info"/>
+    <userdata customnodeid="" author="" comment="" heading="103.8" info="" title="Сени" altitude="196.21" latitude="55.003447" longitude="45.309053" source="" nodeid="node4" datetime="03.04.2025 14:20" copyright="" tags="" description=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundalpha="1" height="20" bordercolor="0x000000" border="1" background="1" borderalpha="1" borderradius="1" enabled="1" width="180" backgroundcolor="0xffffff" wordwrap="1" textalpha="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-133.49" url="{node5}" title="Хозяйственная половина" distance="4.42685" skinid="ht_node" id="to_remeslo_left" tilt="-13.59" description=""/>
+      <hotspot target="" pan="-305.55" url="{node6}" title="Чистая половина" distance="13.2853" skinid="ht_node" id="to_remeslo_right" tilt="-11.12" description=""/>
+      <hotspot url="" target="" pan="-39.19" skinid="ht_node" id="to_street" tilt="-11.42" title="На улицу" description=""/>
+      <hotspot url="images/__.jpg" target="" pan="-75.75" skinid="ht_image" id="Point01" tilt="-3.58" title="" description=""/>
+      <hotspot url="images/_.jpg" target="" pan="-104.56" skinid="ht_image" id="Point02" tilt="5.51" title="" description=""/>
+      <hotspot url="images/_-1.jpg" target="" pan="-329.23" skinid="ht_image" id="Point03" tilt="10.1" title="" description=""/>
+      <hotspot url="images/__-1.jpg" target="" pan="-182.74" skinid="ht_image" id="Point04" tilt="-5.17" title="" description=""/>
+      <hotspot url="images/__-2.jpg" target="" pan="-235.42" skinid="ht_image" id="Point05" tilt="3.3" title="" description=""/>
+      <hotspot url="images/_-2.jpg" target="" pan="-284.52" skinid="ht_image" id="Point06" tilt="9.92" title="" description=""/>
+      <hotspot url="images/_-3.jpg" target="" pan="-250.24" skinid="ht_image" id="Point07" tilt="-6.98" title="" description=""/>
+      <hotspot url="images/_-4.jpg" target="" pan="-250.99" skinid="ht_image" id="Point08" tilt="12.16" title="" description=""/>
+      <hotspot url="" target="" pan="-221.3" skinid="ht_info" id="Point09" tilt="17.72" title="Аннотация" description="     Вотчинная контора (флигель) – типичное административное здание первой половины XIX века. Постройка восстановлена в 70-х гг. двадцатого века по старинным планам, документам, фотографиям.&#xa;&#xa;     По свидетельствам последнего болдинского владельца, внучатого племянника поэта Льва Анатольевича  Пушкина, в свой третий приезд в Болдино в 1834 году Александр Сергеевич останавливался в вотчинной конторе, так как господский дом был на ремонте."/>
     </hotspots>
     <media/>
-    <transition softedge="0" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomfov="40" zoomin="0"/>
+    <transition delay="none" blendtime="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomout="0" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomin="0"/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control zoomcentercursor="1" simulatemass="1" sensitivity="8" hideabout="0" invertwheel="0" invertcontrol="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" zoomcentercursor="1" lockedmouse="0" invertwheel="0" contextvr="1" simulatemass="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node5">
-    <input width="1680" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1680" overlap="1">
-      <level width="1680" preload="0" height="1680" predecode="0"/>
-      <level width="840" preload="0" height="840" predecode="0"/>
-      <level width="420" preload="1" height="420" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="1680" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1680" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="1680" height="1680" preload="0"/>
+      <level predecode="0" width="840" height="840" preload="0"/>
+      <level predecode="1" width="420" height="420" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="22.1" fovmode="2">
-      <start pan="138.937" tilt="-12.6529" projection="4" fov="120"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view fovmode="2" pannorth="22.1">
+      <start projection="4" pan="138.937" tilt="-12.6529" fov="120"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fovstereographic="330" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="140"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
     </view>
-    <userdata latitude="55.003428" author="" heading="22.1" longitude="45.308992" altitude="196.20" title="Хозяйственная половина" customnodeid="" nodeid="node5" datetime="03.04.2025 14:21" info="" comment="" description="" tags="" source="" copyright=""/>
-    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
-      <label enabled="1" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-43.88" tilt="-10.91" id="to_remeslo_main" title="Сени" target="" url="{node4}" description="" distance="4.42685" skinid="ht_node"/>
-      <hotspot target="" pan="-80.41" tilt="6.34" url="images/_-5.jpg" description="" id="Point01" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-121.61" tilt="-18.64" url="images/_-6.jpg" description="" id="Point02" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-160.92" tilt="-15.36" url="images/__-3.jpg" description="" id="Point03" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-177.85" tilt="3.32" url="images/_-7.jpg" description="" id="Point04" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-217.48" tilt="-2.41" url="images/__-4.jpg" description="" id="Point05" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-217.28" tilt="-10.43" url="images/__2.jpg" description="" id="Point06" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-275.3" tilt="-18.27" url="images/__-5.jpg" description="" id="Point07" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-346.28" tilt="-16.83" url="images/__-6.jpg" description="" id="Point08" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-13.05" tilt="14.53" url="images/_-8.jpg" description="" id="Point09" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-319.47" tilt="2.69" url="images/_-9.jpg" description="" id="Point10" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-350.85" tilt="6.88" url="" description="     В левой части флигеля воссоздана обстановка конторы, где занимались управлением имения. В глубине, у передних окон – бюро управляющего -- работы провинциального мастера. Рядом несколько простых крестьянских столов для писаря, старосты, приказчика.&#xa;&#xa;     На них множество тетрадей простой грубой бумаги – копии хозяйственных документов. На одном из столов – матерчатый кисет для мелких оброчных денег, сундучок-подголовник для доставки денег в город помещику. С левой стороны комнаты – несколько видов весов для натурального оброка: напольные и рычажные.&#xa;&#xa;     На стене висят безмены, рядом стоят долбленые липовые весовки и меры для сыпучих продуктов. В одной из больших долбленок и в лубяном сундуке лежат домотканые холсты." id="Point11" title="Аннотация" skinid="ht_info"/>
+    <userdata customnodeid="" author="" comment="" heading="22.1" info="" title="Хозяйственная половина" altitude="196.20" latitude="55.003428" longitude="45.308992" source="" nodeid="node5" datetime="03.04.2025 14:21" copyright="" tags="" description=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundalpha="1" height="20" bordercolor="0x000000" border="1" background="1" borderalpha="1" borderradius="1" enabled="1" width="180" backgroundcolor="0xffffff" wordwrap="1" textalpha="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-43.88" url="{node4}" title="Сени" distance="4.42685" skinid="ht_node" id="to_remeslo_main" tilt="-10.91" description=""/>
+      <hotspot url="images/_-5.jpg" target="" pan="-80.41" skinid="ht_image" id="Point01" tilt="6.34" title="" description=""/>
+      <hotspot url="images/_-6.jpg" target="" pan="-121.61" skinid="ht_image" id="Point02" tilt="-18.64" title="" description=""/>
+      <hotspot url="images/__-3.jpg" target="" pan="-160.92" skinid="ht_image" id="Point03" tilt="-15.36" title="" description=""/>
+      <hotspot url="images/_-7.jpg" target="" pan="-177.85" skinid="ht_image" id="Point04" tilt="3.32" title="" description=""/>
+      <hotspot url="images/__-4.jpg" target="" pan="-217.48" skinid="ht_image" id="Point05" tilt="-2.41" title="" description=""/>
+      <hotspot url="images/__2.jpg" target="" pan="-217.28" skinid="ht_image" id="Point06" tilt="-10.43" title="" description=""/>
+      <hotspot url="images/__-5.jpg" target="" pan="-275.3" skinid="ht_image" id="Point07" tilt="-18.27" title="" description=""/>
+      <hotspot url="images/__-6.jpg" target="" pan="-346.28" skinid="ht_image" id="Point08" tilt="-16.83" title="" description=""/>
+      <hotspot url="images/_-8.jpg" target="" pan="-13.05" skinid="ht_image" id="Point09" tilt="14.53" title="" description=""/>
+      <hotspot url="images/_-9.jpg" target="" pan="-319.47" skinid="ht_image" id="Point10" tilt="2.69" title="" description=""/>
+      <hotspot url="" target="" pan="-350.85" skinid="ht_info" id="Point11" tilt="6.88" title="Аннотация" description="     В левой части флигеля воссоздана обстановка конторы, где занимались управлением имения. В глубине, у передних окон – бюро управляющего -- работы провинциального мастера. Рядом несколько простых крестьянских столов для писаря, старосты, приказчика.&#xa;&#xa;     На них множество тетрадей простой грубой бумаги – копии хозяйственных документов. На одном из столов – матерчатый кисет для мелких оброчных денег, сундучок-подголовник для доставки денег в город помещику. С левой стороны комнаты – несколько видов весов для натурального оброка: напольные и рычажные.&#xa;&#xa;     На стене висят безмены, рядом стоят долбленые липовые весовки и меры для сыпучих продуктов. В одной из больших долбленок и в лубяном сундуке лежат домотканые холсты."/>
     </hotspots>
     <media/>
-    <transition softedge="0" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomfov="40" zoomin="0"/>
+    <transition delay="none" blendtime="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomout="0" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomin="0"/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control zoomcentercursor="1" simulatemass="1" sensitivity="8" hideabout="0" invertwheel="0" invertcontrol="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" zoomcentercursor="1" lockedmouse="0" invertwheel="0" contextvr="1" simulatemass="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" contextfullscreen="1"/>
   </panorama>
   <panorama id="node6">
-    <input width="1680" levelingpitch="0" levelbiashidpi="1.000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1680" overlap="1">
-      <level width="1680" preload="0" height="1680" predecode="0"/>
-      <level width="840" preload="0" height="840" predecode="0"/>
-      <level width="420" preload="1" height="420" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="1680" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1680" overlap="1" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level predecode="0" width="1680" height="1680" preload="0"/>
+      <level predecode="0" width="840" height="840" preload="0"/>
+      <level predecode="1" width="420" height="420" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="175.4" fovmode="2">
-      <start pan="78.4446" tilt="-17.6302" projection="4" fov="120"/>
-      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+    <view fovmode="2" pannorth="175.4">
+      <start projection="4" pan="78.4446" tilt="-17.6302" fov="120"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fovstereographic="330" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="140"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90" fov="140"/>
     </view>
-    <userdata latitude="55.003347" author="" heading="175.4" longitude="45.308939" altitude="196.94" title="Чистая половина" customnodeid="" nodeid="node6" datetime="03.04.2025 14:26" info="" comment="" description="" tags="" source="" copyright=""/>
-    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
-      <label enabled="1" width="180" textalpha="1" border="1" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" height="20" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-91.06" tilt="-11.33" id="to_remeslo_main" title="Сени" target="" url="{node4}" description="" distance="13.2853" skinid="ht_node"/>
-      <hotspot target="" pan="-157.61" tilt="-7.79" url="images/_-10.jpg" description="" id="Point01" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-182.41" tilt="-16.98" url="images/_-11.jpg" description="" id="Point02" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-173.63" tilt="15.05" url="images/_-12.jpg" description="" id="Point03" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-228.19" tilt="-2.26" url="images/__-7.jpg" description="" id="Point04" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-222.55" tilt="-7.68" url="images/__2-1.jpg" description="" id="Point05" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-279.51" tilt="11.11" url="images/_-13.jpg" description="" id="Point06" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-280.12" tilt="-7.03" url="images/_2.jpg" description="" id="Point07" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-320.49" tilt="2.3" url="images/_-14.jpg" description="" id="Point08" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-358.61" tilt="-7.51" url="images/__-8.jpg" description="" id="Point09" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-350.79" tilt="-14.81" url="images/__2-2.jpg" description="" id="Point10" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-50.17" tilt="2.12" url="images/_-15.jpg" description="" id="Point11" title="" skinid="ht_image"/>
-      <hotspot target="" pan="-143.56" tilt="5.43" url="" description="     Во второй половине, в правой части флигеля, воссоздан кабинет Пушкина. Обстановка здесь напоминает быт помещиков средней руки. У глухой стены стоит массивный диван, перед ним – стол и стулья. В углу расположены часы, в простенке между окон – бюро, у окна – конторка, недалеко от входа – сундук, на нем дорожные шкатулки.&#xa;&#xa;     На ломберном столе – чайный дорожный набор, свеча в бронзовом подсвечнике. На край стола сдвинута черновая тетрадь «Сказки о золотом петушке». Это единственное законченное произведение третьей Болдинской осени. На рукописи сказки рядом со стихами Пушкина – какие-то цифры, денежные расчеты. Пушкина не оставляли мысли о финансовом положении семьи.   На всех плоскостях конторы – деловые бумаги.  В тот приезд поэту пришлось вникать в хозяйственные дела, проверять документы и счета. Он приехал в Болдино как поверенный отца по управлению имением. Ему пришлось разбираться в проблемах отношений помещика и крестьян, благодаря чему он глубже узнал жизнь крепостного Болдина." id="Point12" title="Аннотация" skinid="ht_info"/>
+    <userdata customnodeid="" author="" comment="" heading="175.4" info="" title="Чистая половина" altitude="196.94" latitude="55.003347" longitude="45.308939" source="" nodeid="node6" datetime="03.04.2025 14:26" copyright="" tags="" description=""/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" backgroundalpha="1" height="20" bordercolor="0x000000" border="1" background="1" borderalpha="1" borderradius="1" enabled="1" width="180" backgroundcolor="0xffffff" wordwrap="1" textalpha="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot target="" pan="-91.06" url="{node4}" title="Сени" distance="13.2853" skinid="ht_node" id="to_remeslo_main" tilt="-11.33" description=""/>
+      <hotspot url="images/_-10.jpg" target="" pan="-157.61" skinid="ht_image" id="Point01" tilt="-7.79" title="" description=""/>
+      <hotspot url="images/_-11.jpg" target="" pan="-182.41" skinid="ht_image" id="Point02" tilt="-16.98" title="" description=""/>
+      <hotspot url="images/_-12.jpg" target="" pan="-173.63" skinid="ht_image" id="Point03" tilt="15.05" title="" description=""/>
+      <hotspot url="images/__-7.jpg" target="" pan="-228.19" skinid="ht_image" id="Point04" tilt="-2.26" title="" description=""/>
+      <hotspot url="images/__2-1.jpg" target="" pan="-222.55" skinid="ht_image" id="Point05" tilt="-7.68" title="" description=""/>
+      <hotspot url="images/_-13.jpg" target="" pan="-279.51" skinid="ht_image" id="Point06" tilt="11.11" title="" description=""/>
+      <hotspot url="images/_2.jpg" target="" pan="-280.12" skinid="ht_image" id="Point07" tilt="-7.03" title="" description=""/>
+      <hotspot url="images/_-14.jpg" target="" pan="-320.49" skinid="ht_image" id="Point08" tilt="2.3" title="" description=""/>
+      <hotspot url="images/__-8.jpg" target="" pan="-358.61" skinid="ht_image" id="Point09" tilt="-7.51" title="" description=""/>
+      <hotspot url="images/__2-2.jpg" target="" pan="-350.79" skinid="ht_image" id="Point10" tilt="-14.81" title="" description=""/>
+      <hotspot url="images/_-15.jpg" target="" pan="-50.17" skinid="ht_image" id="Point11" tilt="2.12" title="" description=""/>
+      <hotspot url="" target="" pan="-143.56" skinid="ht_info" id="Point12" tilt="5.43" title="Аннотация" description="     Во второй половине, в правой части флигеля, воссоздан кабинет Пушкина. Обстановка здесь напоминает быт помещиков средней руки. У глухой стены стоит массивный диван, перед ним – стол и стулья. В углу расположены часы, в простенке между окон – бюро, у окна – конторка, недалеко от входа – сундук, на нем дорожные шкатулки.&#xa;&#xa;     На ломберном столе – чайный дорожный набор, свеча в бронзовом подсвечнике. На край стола сдвинута черновая тетрадь «Сказки о золотом петушке». Это единственное законченное произведение третьей Болдинской осени. На рукописи сказки рядом со стихами Пушкина – какие-то цифры, денежные расчеты. Пушкина не оставляли мысли о финансовом положении семьи.   На всех плоскостях конторы – деловые бумаги.  В тот приезд поэту пришлось вникать в хозяйственные дела, проверять документы и счета. Он приехал в Болдино как поверенный отца по управлению имением. Ему пришлось разбираться в проблемах отношений помещика и крестьян, благодаря чему он глубже узнал жизнь крепостного Болдина."/>
     </hotspots>
     <media/>
-    <transition softedge="0" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" type="crossdissolve" zoomafteroutfov="40" delay="none" zoomspeed="2" zoomfov="40" zoomin="0"/>
+    <transition delay="none" blendtime="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomout="0" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" zoomin="0"/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-    <control zoomcentercursor="1" simulatemass="1" sensitivity="8" hideabout="0" invertwheel="0" invertcontrol="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" lockedwheel="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" speedwheel="1" zoomcentercursor="1" lockedmouse="0" invertwheel="0" contextvr="1" simulatemass="1" lockedwheel="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" hideabout="0" contextprojections="0" contextfullscreen="1"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" description="" tags="" title="" copyright=""/>
+    <userdata author="" comment="" copyright="" tags="" title="" description=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
