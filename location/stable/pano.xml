@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" appversion="7.1.9" start="node1" apprev="20995">
+  <panorama id="node1">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingpitch="0" leveltilesize="510" width="1680" levelingroll="0" height="1680" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" width="1680" height="1680" preload="0"/>
+      <level predecode="0" width="840" height="840" preload="0"/>
+      <level predecode="1" width="420" height="420" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="32.7" fovmode="2">
+      <start pan="-113.897" projection="4" tilt="-16.54" fov="133.253"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140"/>
+    </view>
+    <userdata altitude="193.50" copyright="" customnodeid="" info="" comment="" nodeid="node1" latitude="55.002369" datetime="03.04.2025 14:10" heading="32.7" description="" longitude="45.307864" title="Конюшня" source="" author="" tags=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderalpha="1" border="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" textalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" enabled="1" height="20" background="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot target="10.4/-2.6/100.0" distance="12.9412" skinid="ht_node" pan="-151.51" description="" id="to_kon_zastoy" tilt="-20.46" title="Стойло" url="{node2}"/>
+      <hotspot target="" distance="12.4491" skinid="ht_node" pan="-22.9" description="" id="to_kon_upryazhki" tilt="-2.25" title="Каретник" url="{node3}"/>
+      <hotspot pan="-289.42" target="" skinid="ht_node" id="to_street" description="" tilt="-15.57" title="На_Улицу" url=""/>
+      <hotspot pan="-338.72" target="" skinid="ht_info" id="Point01" description="     В южной части хозяйственного двора, к востоку от людской, находится конюшня. Она состоит из трех помещений, соединенных под одной крышей. По центру постройки вход в собственно конюшню, где содержались лошади для выезда.&#xa;&#xa;     Справа – амбар, в котором держали хлеб для дворовых людей. Слева – каретный сарай для хранения повозок и конской упряжи.&#xa;&#xa;     Конюшня восстановлена в 1992 году. Её появлению предшествовали архивные и археологические изыскания. В описи имения 1848 – 1849 годов говорится: «Конюшня в одной связи строения десяти сажЕней, ширина четыре  сажЕни, тесом крыта, в ней конюшня на 6 лошадей. Сарай для повозок и амбар для помещения отсыпнОго хлеба дворОвым людям».&#xa;Местоположение и конфигурация здания восстановлены по архивным планам усадьбы.&#xa;&#xa;     В 1989 году эти сведения были подтверждены и археологическими раскопками нижегородского архитектора В.Ф.Черникова. " tilt="14.8" title="Аннотация" url=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomin="0" zoomout="0" delay="none" softedge="0" zoomafteroutfov="40" type="crossdissolve" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedwheel="0" contextprojections="0" simulatemass="1" invertcontrol="1" contextvr="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingpitch="0" leveltilesize="510" width="1680" levelingroll="0" height="1680" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" width="1680" height="1680" preload="0"/>
+      <level predecode="0" width="840" height="840" preload="0"/>
+      <level predecode="1" width="420" height="420" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="10.7" fovmode="2">
+      <start pan="-0.172789" projection="4" tilt="-5.52141" fov="120"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140"/>
+    </view>
+    <userdata altitude="194.16" copyright="" customnodeid="" info="" comment="" nodeid="node2" latitude="55.002258" datetime="03.04.2025 14:11" heading="10.7" description="" longitude="45.307925" title="Стойло" source="" author="" tags=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderalpha="1" border="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" textalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" enabled="1" height="20" background="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot target="-113.4/-5.9/120.0" distance="12.9412" skinid="ht_node" pan="-352.61" description="" id="to_kon_main" tilt="-22.3" title="Конюшня" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomin="0" zoomout="0" delay="none" softedge="0" zoomafteroutfov="40" type="crossdissolve" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedwheel="0" contextprojections="0" simulatemass="1" invertcontrol="1" contextvr="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingpitch="0" leveltilesize="510" width="1680" levelingroll="0" height="1680" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" width="1680" height="1680" preload="0"/>
+      <level predecode="0" width="840" height="840" preload="0"/>
+      <level predecode="1" width="420" height="420" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="350.3" fovmode="2">
+      <start pan="-166.139" projection="4" tilt="-6.38701" fov="120"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="140"/>
+    </view>
+    <userdata altitude="193.91" copyright="" customnodeid="" info="" comment="" nodeid="node3" latitude="55.002397" datetime="03.04.2025 14:12" heading="350.3" description="" longitude="45.308053" title="Каретник" source="" author="" tags=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderalpha="1" border="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" textalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" enabled="1" height="20" background="1"/>
+      <polystyle mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot target="" distance="12.4491" skinid="ht_node" pan="-241.21" description="" id="to_kon_main" tilt="-4.78" title="Конюшня" url="{node1}"/>
+      <hotspot pan="-359.04" target="" skinid="ht_node" id="to_street" description="" tilt="-9.04" title="На улицу" url=""/>
+      <hotspot pan="-92.17" target="" skinid="ht_image" id="Point01" description="" tilt="12.67" title="Приспособления" url="images/image.jpg"/>
+      <hotspot pan="-147.63" target="" skinid="ht_image" id="Point02" description="" tilt="-11.76" title="Сани" url="images/image-1.jpg"/>
+      <hotspot pan="-184.5" target="" skinid="ht_image" id="Point03" description="" tilt="-14.84" title="Карета" url="images/image-2.jpg"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomfov="40" zoomoutpause="1" blendcolor="0x000000" zoomafterinfov="140" zoomin="0" zoomout="0" delay="none" softedge="0" zoomafteroutfov="40" type="crossdissolve" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" zoomcentercursor="1" contextfullscreen="1" rubberband="0" lockedwheel="0" contextprojections="0" simulatemass="1" invertcontrol="1" contextvr="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" comment="" title="" tags="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
