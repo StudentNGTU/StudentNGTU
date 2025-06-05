@@ -246,13 +246,13 @@
       <hotspot url="" description="" pan="-354.68" skinid="ht_node" tilt="-0.39" target="" title="На улицу" id="to_street"/>
       <hotspot url="images/1833_витрина.jpg" description="" pan="-299.38" skinid="ht_image" tilt="27.96" target="" title="" id="Point01"/>
       <hotspot url="images/1833_статуя.jpg" description="" pan="-231.32" skinid="ht_image" tilt="10.11" target="" title="" id="Point02"/>
-      <hotspot url="images/1833_винтрина_книга.jpg" description="" pan="-281.56" skinid="ht_image" tilt="12.25" target="" title="" id="Point03"/>
+      <hotspot url="images/1833_витрина_книга.jpg" description="" pan="-281.56" skinid="ht_image" tilt="12.25" target="" title="" id="Point03"/>
       <hotspot url="images/1833_витрина_под_книгой.jpg" description="" pan="-282.35" skinid="ht_image" tilt="4.88" target="" title="" id="Point04"/>
       <hotspot url="images/1833_витрина_рыжее.jpg" description="" pan="-288.98" skinid="ht_image" tilt="4.57" target="" title="" id="Point05"/>
       <hotspot url="images/1833_витрина_письмо.jpg" description="" pan="-287.45" skinid="ht_image" tilt="11.17" target="" title="" id="Point06"/>
       <hotspot url="images/1833_витрина_узник.jpg" description="" pan="-295.66" skinid="ht_image" tilt="6.57" target="" title="" id="Point07"/>
       <hotspot url="images/1833_витрина_конверт.jpg" description="" pan="-295.38" skinid="ht_image" tilt="-1.21" target="" title="" id="Point08"/>
-      <hotspot url="images/1833_витрина_принцесса.jpeg" description="" pan="-302.97" skinid="ht_image" tilt="9.67" target="" title="" id="Point09"/>
+      <hotspot url="images/1833_витрина_принцесса.jpg" description="" pan="-302.97" skinid="ht_image" tilt="9.67" target="" title="" id="Point09"/>
       <hotspot url="images/1833_витрина_пушкин.jpg" description="" pan="-307.73" skinid="ht_image" tilt="9.99" target="" title="" id="Point10"/>
       <hotspot url="images/1833_витрина_записи_ручка.jpg" description="" pan="-328.59" skinid="ht_image" tilt="10.79" target="" title="" id="Point11"/>
       <hotspot url="images/1833_витрина_белая_книга.jpg" description="" pan="-312.64" skinid="ht_image" tilt="10.29" target="" title="" id="Point12"/>
