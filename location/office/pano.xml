@@ -55,14 +55,14 @@
       <hotspot skinid="ht_node" pan="-43.88" url="{node4}" tilt="-10.91" description="" distance="4.42685" target="" title="Сени" id="to_remeslo_main"/>
       <hotspot target="" skinid="ht_image" pan="-80.41" title="" url="images/Хоз_печь.jpg" tilt="6.34" id="Point01" description=""/>
       <hotspot target="" skinid="ht_image" pan="-121.61" title="" url="images/Хоз_весы.jpg" tilt="-18.64" id="Point02" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-160.92" title="" url="images/__-3.jpg" tilt="-15.36" id="Point03" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-177.85" title="" url="images/_-7.jpg" tilt="3.32" id="Point04" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-217.48" title="" url="images/__-4.jpg" tilt="-2.41" id="Point05" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-217.28" title="" url="images/__2.jpg" tilt="-10.43" id="Point06" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-275.3" title="" url="images/__-5.jpg" tilt="-18.27" id="Point07" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-346.28" title="" url="images/__-6.jpg" tilt="-16.83" id="Point08" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-13.05" title="" url="images/_-8.jpg" tilt="14.53" id="Point09" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-319.47" title="" url="images/_-9.jpg" tilt="2.69" id="Point10" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-160.92" title="" url="images/Хоз_весы_стол.jpg" tilt="-15.36" id="Point03" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-177.85" title="" url="images/Хоз_шкаф.jpg" tilt="3.32" id="Point04" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-217.48" title="" url="images/Хоз_столик_центр.jpg" tilt="-2.41" id="Point05" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-217.28" title="" url="images/Хоз_столик_центр2.jpg" tilt="-10.43" id="Point06" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-275.3" title="" url="images/Хоз_стол_счеты.jpg" tilt="-18.27" id="Point07" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-346.28" title="" url="images/Хоз_стол_письма.jpg" tilt="-16.83" id="Point08" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-13.05" title="" url="images/Хоз_полка.jpg" tilt="14.53" id="Point09" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-319.47" title="" url="images/Хоз_папирос.jpg" tilt="2.69" id="Point10" description=""/>
       <hotspot target="" skinid="ht_info" pan="-350.85" title="Аннотация" url="" tilt="6.88" id="Point11" description="     В левой части флигеля воссоздана обстановка конторы, где занимались управлением имения. В глубине, у передних окон – бюро управляющего -- работы провинциального мастера. Рядом несколько простых крестьянских столов для писаря, старосты, приказчика.&#xa;&#xa;     На них множество тетрадей простой грубой бумаги – копии хозяйственных документов. На одном из столов – матерчатый кисет для мелких оброчных денег, сундучок-подголовник для доставки денег в город помещику. С левой стороны комнаты – несколько видов весов для натурального оброка: напольные и рычажные.&#xa;&#xa;     На стене висят безмены, рядом стоят долбленые липовые весовки и меры для сыпучих продуктов. В одной из больших долбленок и в лубяном сундуке лежат домотканые холсты."/>
     </hotspots>
     <media/>
@@ -88,17 +88,17 @@
       <label borderalpha="1" borderradius="1" width="180" height="20" enabled="1" background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
       <hotspot skinid="ht_node" pan="-91.06" url="{node4}" tilt="-11.33" description="" distance="13.2853" target="" title="Сени" id="to_remeslo_main"/>
-      <hotspot target="" skinid="ht_image" pan="-157.61" title="" url="images/_-10.jpg" tilt="-7.79" id="Point01" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-182.41" title="" url="images/_-11.jpg" tilt="-16.98" id="Point02" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-173.63" title="" url="images/_-12.jpg" tilt="15.05" id="Point03" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-228.19" title="" url="images/__-7.jpg" tilt="-2.26" id="Point04" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-222.55" title="" url="images/__2-1.jpg" tilt="-7.68" id="Point05" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-279.51" title="" url="images/_-13.jpg" tilt="11.11" id="Point06" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-280.12" title="" url="images/_2.jpg" tilt="-7.03" id="Point07" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-320.49" title="" url="images/_-14.jpg" tilt="2.3" id="Point08" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-358.61" title="" url="images/__-8.jpg" tilt="-7.51" id="Point09" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-350.79" title="" url="images/__2-2.jpg" tilt="-14.81" id="Point10" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-50.17" title="" url="images/_-15.jpg" tilt="2.12" id="Point11" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-157.61" title="" url="images/Чистая_тумба.jpg" tilt="-7.79" id="Point01" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-182.41" title="" url="images/Чистая_самовар.jpg" tilt="-16.98" id="Point02" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-173.63" title="" url="images/Чистая_зеркало.jpg" tilt="15.05" id="Point03" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-228.19" title="" url="images/Чистая_стол_наклон.jpg" tilt="-2.26" id="Point04" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-222.55" title="" url="images/Чистая_стол_наклон2.jpg" tilt="-7.68" id="Point05" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-279.51" title="" url="images/Чистая_верстак.jpg" tilt="11.11" id="Point06" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-280.12" title="" url="images/Чистая_верстак2.jpg" tilt="-7.03" id="Point07" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-320.49" title="" url="images/Чистая_часы.jpg" tilt="2.3" id="Point08" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-358.61" title="" url="images/Чистая_стол_диван.jpg" tilt="-7.51" id="Point09" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-350.79" title="" url="images/Чистая_стол_диван2.jpg" tilt="-14.81" id="Point10" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-50.17" title="" url="images/Чистая_печь.jpg" tilt="2.12" id="Point11" description=""/>
       <hotspot target="" skinid="ht_info" pan="-143.56" title="Аннотация" url="" tilt="5.43" id="Point12" description="     Во второй половине, в правой части флигеля, воссоздан кабинет Пушкина. Обстановка здесь напоминает быт помещиков средней руки. У глухой стены стоит массивный диван, перед ним – стол и стулья. В углу расположены часы, в простенке между окон – бюро, у окна – конторка, недалеко от входа – сундук, на нем дорожные шкатулки.&#xa;&#xa;     На ломберном столе – чайный дорожный набор, свеча в бронзовом подсвечнике. На край стола сдвинута черновая тетрадь «Сказки о золотом петушке». Это единственное законченное произведение третьей Болдинской осени. На рукописи сказки рядом со стихами Пушкина – какие-то цифры, денежные расчеты. Пушкина не оставляли мысли о финансовом положении семьи.   На всех плоскостях конторы – деловые бумаги.  В тот приезд поэту пришлось вникать в хозяйственные дела, проверять документы и счета. Он приехал в Болдино как поверенный отца по управлению имением. Ему пришлось разбираться в проблемах отношений помещика и крестьян, благодаря чему он глубже узнал жизнь крепостного Болдина."/>
     </hotspots>
     <media/>
