@@ -103,42 +103,42 @@ a {
 }
 
 .house {
-    background-image: url('/image/house.jpg');
+    background-image: url('../image/house.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .horse {
-    background-image: url('/image/konushnya.jpg');
+    background-image: url('../image/konushnya.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .bathhouse {
-    background-image: url('/image/bathhouse.jpg');
+    background-image: url('../image/bathhouse.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .kontora {
-    background-image: url('/image/kontora.jpg');
+    background-image: url('../image/kontora.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .museum {
-    background-image: url('/image/museum.jpg');
+    background-image: url('../image/museum.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 .street {
-    background-image: url('/image/street.jpg');
+    background-image: url('../image/street.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
