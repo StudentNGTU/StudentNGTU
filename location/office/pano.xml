@@ -20,14 +20,14 @@
       <hotspot skinid="ht_node" pan="-133.49" url="{node5}" tilt="-13.59" description="" distance="4.42685" target="" title="Хозяйственная половина" id="to_remeslo_left"/>
       <hotspot skinid="ht_node" pan="-305.55" url="{node6}" tilt="-11.12" description="" distance="13.2853" target="" title="Чистая половина" id="to_remeslo_right"/>
       <hotspot target="" skinid="ht_node" pan="-39.19" title="На улицу" url="" tilt="-11.42" id="to_street" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-75.75" title="" url="images/__.jpg" tilt="-3.58" id="Point01" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-104.56" title="" url="images/_.jpg" tilt="5.51" id="Point02" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-329.23" title="" url="images/image.jpg" tilt="10.1" id="Point03" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-182.74" title="" url="images/__-1.jpg" tilt="-5.17" id="Point04" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-235.42" title="" url="images/__-2.jpg" tilt="3.3" id="Point05" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-284.52" title="" url="images/_-2.jpg" tilt="9.92" id="Point06" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-250.24" title="" url="images/_-3.jpg" tilt="-6.98" id="Point07" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-250.99" title="" url="images/_-4.jpg" tilt="12.16" id="Point08" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-75.75" title="" url="images/canopy_bucket.jpg" tilt="-3.58" id="Point01" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-104.56" title="" url="images/canopy_nightie.jpg" tilt="5.51" id="Point02" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-329.23" title="" url="images/canopy_fur.jpg" tilt="10.1" id="Point03" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-182.74" title="" url="images/canopy_vase.jpg" tilt="-5.17" id="Point04" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-235.42" title="" url="images/canopy_suspend_vase.jpg" tilt="3.3" id="Point05" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-284.52" title="" url="images/canopy_flashlight.jpg" tilt="9.92" id="Point06" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-250.24" title="" url="images/canopy_chest.jpg" tilt="-6.98" id="Point07" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-250.99" title="" url="images/canopy_shelf.jpg" tilt="12.16" id="Point08" description=""/>
       <hotspot target="" skinid="ht_info" pan="-221.3" title="Аннотация" url="" tilt="17.72" id="Point09" description="     Вотчинная контора (флигель) – типичное административное здание первой половины XIX века. Постройка восстановлена в 70-х гг. двадцатого века по старинным планам, документам, фотографиям.&#xa;&#xa;     По свидетельствам последнего болдинского владельца, внучатого племянника поэта Льва Анатольевича  Пушкина, в свой третий приезд в Болдино в 1834 году Александр Сергеевич останавливался в вотчинной конторе, так как господский дом был на ремонте."/>
     </hotspots>
     <media/>
@@ -53,8 +53,8 @@
       <label borderalpha="1" borderradius="1" width="180" height="20" enabled="1" background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
       <hotspot skinid="ht_node" pan="-43.88" url="{node4}" tilt="-10.91" description="" distance="4.42685" target="" title="Сени" id="to_remeslo_main"/>
-      <hotspot target="" skinid="ht_image" pan="-80.41" title="" url="images/_-5.jpg" tilt="6.34" id="Point01" description=""/>
-      <hotspot target="" skinid="ht_image" pan="-121.61" title="" url="images/_-6.jpg" tilt="-18.64" id="Point02" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-80.41" title="" url="images/Хоз_печь.jpg" tilt="6.34" id="Point01" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-121.61" title="" url="images/Хоз_весы.jpg" tilt="-18.64" id="Point02" description=""/>
       <hotspot target="" skinid="ht_image" pan="-160.92" title="" url="images/__-3.jpg" tilt="-15.36" id="Point03" description=""/>
       <hotspot target="" skinid="ht_image" pan="-177.85" title="" url="images/_-7.jpg" tilt="3.32" id="Point04" description=""/>
       <hotspot target="" skinid="ht_image" pan="-217.48" title="" url="images/__-4.jpg" tilt="-2.41" id="Point05" description=""/>
