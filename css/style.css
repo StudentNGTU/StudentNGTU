@@ -9,10 +9,11 @@ a {
     color: #000;
 }
 
-.container{
+.container {
     max-width: 1170px;
     margin-left: auto;
     margin-right: auto;
+    padding: 0 15px;
 }
 
 .section {
@@ -20,9 +21,9 @@ a {
     margin-bottom: 20px;
 }
 
-.section:not(:last-child) {
+/*.section:not(:last-child) {
     border-bottom: 1px solid #000;
-}
+}*/
 
 .list-reset {
     margin: 0;
@@ -31,7 +32,9 @@ a {
 }
 
 .header {
+    border-radius: 0 0 8px 8px;
     background-color: #000;
+    box-shadow: 0px 0px 10px 8px rgba(0, 0, 0, 0.21);
 }
 
 .header__container {
@@ -65,28 +68,51 @@ a {
     margin-bottom: 16px;
 }
 
-.subtitle {
-    margin: 0;
-    padding: 0;
-    margin-bottom: 32px;
-    font-size: 24px;
+.full_tour {
+    display: block;
+    width: 100%;
+    height: 600px;
+    border-radius: 8px;
 }
 
-.tour_full__icon-play {
-    width: 80px;
-    height: auto;
-    border-radius: 100px;
-    box-shadow: 1px 1px 20px rgba(255, 167, 3, 0.712);
-    transition: scale .1s ease-in-out, transform .8s ease-in-out, box-shadow .1s ease-in-out;
+.full__wrapper {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.21);
+    transition: all .3s ease-in-out;
 }
 
-.tour_full__icon-play:hover {
-    transform: rotate(360deg)
+.full__wrapper:hover {
+    scale: 1.03;
+    box-shadow: 3px 3px 20px rgba(255, 167, 3, 0.712);
 }
 
-.tour_full__icon-play:active {
-    scale: 1.1;
-    box-shadow: 1px 1px 20px rgba(102, 66, 0, 0.712);
+.mask {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .5);
+    border-radius: 8px;
+    opacity: 0;
+    color: #fff;
+    font-size: 40px;
+    text-transform: uppercase;
+    transition: opacity .3s ease-in-out;
+}
+
+.mask:hover {
+    opacity: 1;
 }
 
 .tour_change__container {
@@ -98,6 +124,7 @@ a {
 .cards {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     flex-wrap: wrap;
     gap: 32px;
 }
@@ -161,7 +188,6 @@ a {
 .card:hover {
     scale: 1.03;
     box-shadow: 3px 3px 20px rgba(255, 167, 3, 0.712);
-    background-color: #000;
 }
 
 .loco__title {
