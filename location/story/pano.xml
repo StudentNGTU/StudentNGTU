@@ -85,7 +85,7 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0"/>
       <hotspot skinid="ht_node" description="" id="to_fairyTales_4" title="&quot;Сказка о царе Салтане&quot;" url="{node26}" distance="2.50456" target="" pan="-310.55" tilt="-17.85"/>
       <hotspot skinid="ht_node" description="" id="to_fairyTales_2" title="Сказки Болдинской осени. Точка 1" url="{node24}" distance="14.5069" target="" pan="-73.83" tilt="-20.03"/>
-      <hotspot skinid="ht_node" description="" id="to_fairyTales_1" title="Сказки_1" url="{node23}" distance="18.9043" target="" pan="-101.18" tilt="-14.88"/>
+      <hotspot skinid="ht_node" description="" id="to_fairyTales_1" title="Пушкиана. От сказки к сказке" url="{node23}" distance="18.9043" target="" pan="-101.18" tilt="-14.88"/>
       <hotspot skinid="ht_image" description="" target="" id="Point01" title="" pan="-201.87" url="images/autumn_story2.jpg" tilt="-6.1"/>
       <hotspot skinid="ht_image" description="" target="" id="Point02" title="" pan="-159.77" url="images/autumn_story.jpg" tilt="-7.77"/>
       <hotspot skinid="ht_image" description="" target="" id="Point03" title="" pan="-166.29" url="images/autumn_story_descr.jpg" tilt="-6.27"/>
