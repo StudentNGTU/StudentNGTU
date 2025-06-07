@@ -1180,11 +1180,11 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-17.19" title="Сени. 1 точка" url="{node51}" pan="-83.05" id="to_bathhouse_main1" target="" skinid="ht_node" distance="23.7268" description=""/>
-      <hotspot skinid="ht_image" tilt="-30.19" title="" description="" url="images/_-2.jpg" pan="-195.76" id="Point01" target=""/>
-      <hotspot skinid="ht_image" tilt="-35.68" title="" description="Типа таз" url="images/_-1.jpg" pan="-144.52" id="Point02" target=""/>
-      <hotspot skinid="ht_image" tilt="-1.58" title="" description="" url="images/_.jpg" pan="-148.21" id="Point03" target=""/>
-      <hotspot skinid="ht_image" tilt="23.45" title="Фонарь" description="" url="images/_-3.jpg" pan="-147.79" id="Point04" target=""/>
-      <hotspot skinid="ht_image" tilt="-30.48" title="" description="" url="images/_-4.jpg" pan="-48.44" id="Point05" target=""/>
+      <hotspot tilt="-30.2" target="" description="" id="Point01" url="images/Главная_дрова.jpg" skinid="ht_image" title="" pan="-195.65"/>
+      <hotspot tilt="-35.68" target="" description="" id="Point02" url="images/Главная_бочка.jpg" skinid="ht_image" title="" pan="-144.52"/>
+      <hotspot tilt="-1.58" target="" description="" id="Point03" url="images/Главная_кочерга.jpg" skinid="ht_image" title="" pan="-148.21"/>
+      <hotspot tilt="23.45" target="" description="" id="Point04" url="images/Главная_фонарь.jpg" skinid="ht_image" title="" pan="-147.79"/>
+      <hotspot tilt="-30.48" target="" description="" id="Point05" url="images/Главная_ящик.jpg" skinid="ht_image" title="" pan="-48.44"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" delay="none" type="crossdissolve" zoomin="0" enabled="1" zoomspeed="2"/>
@@ -1209,9 +1209,9 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot skinid="ht_node" tilt="-16.38" title="Моечная" description="" url="{node55}" pan="-174.47" id="to_bathhouse_anteroom" target=""/>
-      <hotspot skinid="ht_image" tilt="7.02" title="" description="" url="images/_-12.jpg" pan="-204.64" id="Point01" target=""/>
-      <hotspot skinid="ht_image" tilt="1.05" title="" description="" url="images/_-13.jpg" pan="-270.06" id="Point02" target=""/>
-      <hotspot skinid="ht_image" tilt="-17.81" title="" description="" url="images/_-14.jpg" pan="-134.21" id="Point03" target=""/>
+      <hotspot tilt="7.02" target="" description="" id="Point01" url="images/Парная_печь.jpg" skinid="ht_image" title="" pan="-204.64"/>
+      <hotspot tilt="1.05" target="" description="" id="Point02" url="images/Парная_полки.jpg" skinid="ht_image" title="" pan="-270.06"/>
+      <hotspot tilt="-17.81" target="" description="" id="Point03" url="images/Парная_тазик.jpg" skinid="ht_image" title="" pan="-134.21"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" delay="none" type="crossdissolve" zoomin="0" enabled="1" zoomspeed="2"/>
@@ -1236,12 +1236,12 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-15.51" title="Сени. Точка 1" url="{node51}" pan="-39.46" id="to_bathhouse_main1" target="" skinid="ht_node" distance="86.1829" description=""/>
-      <hotspot skinid="ht_image" tilt="-2.09" title="" description="" url="images/__-1.jpg" pan="-10.06" id="Point01" target=""/>
-      <hotspot skinid="ht_image" tilt="16.71" title="" description="" url="images/_-15.jpg" pan="-343.35" id="Point02" target=""/>
-      <hotspot skinid="ht_image" tilt="-16.23" title="" description="" url="images/_-16.jpg" pan="-84.95" id="Point03" target=""/>
-      <hotspot skinid="ht_image" tilt="-22.47" title="" description="" url="images/_-17.jpg" pan="-170.49" id="Point04" target=""/>
-      <hotspot skinid="ht_image" tilt="-8.22" title="" description="" url="images/_-18.jpg" pan="-222.76" id="Point05" target=""/>
-      <hotspot skinid="ht_image" tilt="-7.96" title="" description="" url="images/_-19.jpg" pan="-264.42" id="Point06" target=""/>
+      <hotspot tilt="-2.09" target="" description="" id="Point01" url="images/Прачечная_столовые_приборы.jpg" skinid="ht_image" title="" pan="-10.06"/>
+      <hotspot tilt="16.71" target="" description="" id="Point02" url="images/Прачечная_печь.jpg" skinid="ht_image" title="" pan="-343.35"/>
+      <hotspot tilt="-16.23" target="" description="" id="Point03" url="images/Прачечная_зеркальце.jpg" skinid="ht_image" title="" pan="-84.95"/>
+      <hotspot tilt="-22.47" target="" description="" id="Point04" url="images/Прачечная_горшок.jpg" skinid="ht_image" title="" pan="-170.49"/>
+      <hotspot tilt="-8.22" target="" description="" id="Point05" url="images/Прачечная_стирка.jpg" skinid="ht_image" title="" pan="-222.76"/>
+      <hotspot tilt="-7.96" target="" description="" id="Point06" url="images/Прачечная_корыто.jpg" skinid="ht_image" title="" pan="-264.42"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" delay="none" type="crossdissolve" zoomin="0" enabled="1" zoomspeed="2"/>
@@ -1267,14 +1267,14 @@
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot skinid="ht_node" tilt="-21.57" title="Сени. Точка 1" description="" url="{node51}" pan="-305.13" id="to_bathhouse_main1" target=""/>
       <hotspot skinid="ht_node" tilt="-19.64" title="Парилка" description="" url="{node53}" pan="-39.68" id="to_bathhouse_steamRoom" target=""/>
-      <hotspot skinid="ht_image" tilt="14.76" title="" description="" url="images/_-5.jpg" pan="-74.03" id="Point01" target=""/>
-      <hotspot skinid="ht_image" tilt="-46.89" title="" description="" url="images/_-6.jpg" pan="-91.64" id="Point02" target=""/>
-      <hotspot skinid="ht_image" tilt="-23.89" title="" description="" url="images/_-7.jpg" pan="-123.98" id="Point03" target=""/>
-      <hotspot skinid="ht_image" tilt="16.81" title="" description="" url="images/_-8.jpg" pan="-124.54" id="Point04" target=""/>
-      <hotspot skinid="ht_image" tilt="18.31" title="" description="" url="images/_-9.jpg" pan="-160.06" id="Point05" target=""/>
-      <hotspot skinid="ht_image" tilt="-46.84" title="" description="" url="images/_-10.jpg" pan="-187.91" id="Point06" target=""/>
-      <hotspot skinid="ht_image" tilt="-12.27" title="" description="" url="images/_-11.jpg" pan="-262.8" id="Point07" target=""/>
-      <hotspot skinid="ht_image" tilt="-25.65" title="" description="" url="images/__.jpg" pan="-336.71" id="Point08" target=""/>
+      <hotspot tilt="14.76" target="" description="" id="Point01" url="images/Предбанник_черпак.jpg" skinid="ht_image" title="" pan="-74.03"/>
+      <hotspot tilt="-46.89" target="" description="" id="Point02" url="images/Предбанник_ведерко.jpg" skinid="ht_image" title="" pan="-91.64"/>
+      <hotspot tilt="-23.89" target="" description="" id="Point03" url="images/Предбанник_бочонок.jpg" skinid="ht_image" title="" pan="-123.98"/>
+      <hotspot tilt="16.81" target="" description="" id="Point04" url="images/Предбанник_веники.jpg" skinid="ht_image" title="" pan="-124.54"/>
+      <hotspot tilt="18.31" target="" description="" id="Point05" url="images/Предбанник_полотенце.jpg" skinid="ht_image" title="" pan="-160.06"/>
+      <hotspot tilt="-46.84" target="" description="" id="Point06" url="images/Предбанник_тумбочка.jpg" skinid="ht_image" title="" pan="-187.91"/>
+      <hotspot tilt="-12.27" target="" description="" id="Point07" url="images/Предбанник_бочка.jpg" skinid="ht_image" title="" pan="-262.8"/>
+      <hotspot tilt="-25.65" target="" description="" id="Point08" url="images/Предбанник_тазик_вени.jpg" skinid="ht_image" title="" pan="-336.71"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" delay="none" type="crossdissolve" zoomin="0" enabled="1" zoomspeed="2"/>
@@ -1762,14 +1762,14 @@
       <hotspot tilt="-13.59" title="Хозяйственная половина" url="{node70}" pan="-133.49" id="to_remeslo_left" target="" skinid="ht_node" distance="4.42685" description=""/>
       <hotspot tilt="-11.12" title="Чистая половина" url="{node71}" pan="-305.55" id="to_remeslo_right" target="" skinid="ht_node" distance="13.2853" description=""/>
       <hotspot tilt="-11.42" title="На улицу" url="{node22}" pan="-39.19" id="to_street" target="" skinid="ht_node" distance="16.3031" description=""/>
-      <hotspot skinid="ht_image" tilt="-3.58" title="" description="" url="images/__.jpg" pan="-75.75" id="Point01" target=""/>
-      <hotspot skinid="ht_image" tilt="5.51" title="" description="" url="images/_.jpg" pan="-104.56" id="Point02" target=""/>
-      <hotspot skinid="ht_image" tilt="10.1" title="" description="" url="images/image.jpg" pan="-329.23" id="Point03" target=""/>
-      <hotspot skinid="ht_image" tilt="-5.17" title="" description="" url="images/canopy_vase.jpg" pan="-182.74" id="Point04" target=""/>
-      <hotspot skinid="ht_image" tilt="3.3" title="" description="" url="images/__-2.jpg" pan="-235.56" id="Point05" target=""/>
-      <hotspot skinid="ht_image" tilt="9.92" title="" description="" url="images/_-2.jpg" pan="-284.52" id="Point06" target=""/>
-      <hotspot skinid="ht_image" tilt="-6.98" title="" description="" url="images/_-3.jpg" pan="-250.24" id="Point07" target=""/>
-      <hotspot skinid="ht_image" tilt="12.16" title="" description="" url="images/_-4.jpg" pan="-250.99" id="Point08" target=""/>
+      <hotspot target="" skinid="ht_image" pan="-75.75" title="" url="images/canopy_bucket.jpg" tilt="-3.58" id="Point01" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-104.56" title="" url="images/canopy_nightie.jpg" tilt="5.51" id="Point02" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-329.23" title="" url="images/canopy_fur.jpg" tilt="10.1" id="Point03" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-182.74" title="" url="images/canopy_vase.jpg" tilt="-5.17" id="Point04" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-235.42" title="" url="images/canopy_suspend_vase.jpg" tilt="3.3" id="Point05" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-284.52" title="" url="images/canopy_flashlight.jpg" tilt="9.92" id="Point06" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-250.24" title="" url="images/canopy_chest.jpg" tilt="-6.98" id="Point07" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-250.99" title="" url="images/canopy_shelf.jpg" tilt="12.16" id="Point08" description=""/>
       <hotspot skinid="ht_info" tilt="17.72" title="Аннотация" description="     Вотчинная контора (флигель) – типичное административное здание первой половины XIX века. Постройка восстановлена в 70-х гг. двадцатого века по старинным планам, документам, фотографиям.&#xa;&#xa;     По свидетельствам последнего болдинского владельца, внучатого племянника поэта Льва Анатольевича  Пушкина, в свой третий приезд в Болдино в 1834 году Александр Сергеевич останавливался в вотчинной конторе, так как господский дом был на ремонте." url="" pan="-221.3" id="Point09" target=""/>
     </hotspots>
     <media/>
@@ -1795,16 +1795,16 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-10.91" title="Сени" url="{node69}" pan="-43.88" id="to_remeslo_main" target="" skinid="ht_node" distance="4.42685" description=""/>
-      <hotspot skinid="ht_image" tilt="6.34" title="" description="" url="images/_-5.jpg" pan="-80.41" id="Point01" target=""/>
-      <hotspot skinid="ht_image" tilt="-18.64" title="" description="" url="images/_-6.jpg" pan="-121.61" id="Point02" target=""/>
-      <hotspot skinid="ht_image" tilt="-15.36" title="" description="" url="images/__-3.jpg" pan="-160.92" id="Point03" target=""/>
-      <hotspot skinid="ht_image" tilt="3.32" title="" description="" url="images/_-7.jpg" pan="-177.85" id="Point04" target=""/>
-      <hotspot skinid="ht_image" tilt="-2.41" title="" description="" url="images/__-4.jpg" pan="-217.48" id="Point05" target=""/>
-      <hotspot skinid="ht_image" tilt="-10.43" title="" description="" url="images/__2.jpg" pan="-217.28" id="Point06" target=""/>
-      <hotspot skinid="ht_image" tilt="-18.27" title="" description="" url="images/__-5.jpg" pan="-275.3" id="Point07" target=""/>
-      <hotspot skinid="ht_image" tilt="-16.83" title="" description="" url="images/__-6.jpg" pan="-346.28" id="Point08" target=""/>
-      <hotspot skinid="ht_image" tilt="14.53" title="" description="" url="images/_-8.jpg" pan="-13.05" id="Point09" target=""/>
-      <hotspot skinid="ht_image" tilt="2.69" title="" description="" url="images/_-9.jpg" pan="-319.47" id="Point10" target=""/>
+      <hotspot target="" skinid="ht_image" pan="-80.41" title="" url="images/Хоз_печь.jpg" tilt="6.34" id="Point01" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-121.61" title="" url="images/Хоз_весы.jpg" tilt="-18.64" id="Point02" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-160.92" title="" url="images/Хоз_весы_стол.jpg" tilt="-15.36" id="Point03" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-177.85" title="" url="images/Хоз_шкаф.jpg" tilt="3.32" id="Point04" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-217.48" title="" url="images/Хоз_столик_центр.jpg" tilt="-2.41" id="Point05" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-217.28" title="" url="images/Хоз_столик_центр2.jpg" tilt="-10.43" id="Point06" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-275.3" title="" url="images/Хоз_стол_счеты.jpg" tilt="-18.27" id="Point07" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-346.28" title="" url="images/Хоз_стол_письма.jpg" tilt="-16.83" id="Point08" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-13.05" title="" url="images/Хоз_полка.jpg" tilt="14.53" id="Point09" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-319.47" title="" url="images/Хоз_папирос.jpg" tilt="2.69" id="Point10" description=""/>
       <hotspot skinid="ht_info" tilt="6.88" title="Аннотация" description="     В левой части флигеля воссоздана обстановка конторы, где занимались управлением имения. В глубине, у передних окон – бюро управляющего -- работы провинциального мастера. Рядом несколько простых крестьянских столов для писаря, старосты, приказчика.&#xa;&#xa;     На них множество тетрадей простой грубой бумаги – копии хозяйственных документов. На одном из столов – матерчатый кисет для мелких оброчных денег, сундучок-подголовник для доставки денег в город помещику. С левой стороны комнаты – несколько видов весов для натурального оброка: напольные и рычажные.&#xa;&#xa;     На стене висят безмены, рядом стоят долбленые липовые весовки и меры для сыпучих продуктов. В одной из больших долбленок и в лубяном сундуке лежат домотканые холсты." url="" pan="-350.85" id="Point11" target=""/>
     </hotspots>
     <media/>
@@ -1830,17 +1830,17 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-11.33" title="Сени" url="{node69}" pan="-91.06" id="to_remeslo_main" target="" skinid="ht_node" distance="13.2853" description=""/>
-      <hotspot skinid="ht_image" tilt="-7.79" title="" description="" url="images/_-10.jpg" pan="-157.61" id="Point01" target=""/>
-      <hotspot skinid="ht_image" tilt="-16.98" title="" description="" url="images/_-11.jpg" pan="-182.41" id="Point02" target=""/>
-      <hotspot skinid="ht_image" tilt="15.05" title="" description="" url="images/_-12.jpg" pan="-173.63" id="Point03" target=""/>
-      <hotspot skinid="ht_image" tilt="-2.26" title="" description="" url="images/__-7.jpg" pan="-228.19" id="Point04" target=""/>
-      <hotspot skinid="ht_image" tilt="-7.68" title="" description="" url="images/__2-1.jpg" pan="-222.55" id="Point05" target=""/>
-      <hotspot skinid="ht_image" tilt="11.11" title="" description="" url="images/_-13.jpg" pan="-279.51" id="Point06" target=""/>
-      <hotspot skinid="ht_image" tilt="-7.03" title="" description="" url="images/_2.jpg" pan="-280.12" id="Point07" target=""/>
-      <hotspot skinid="ht_image" tilt="2.3" title="" description="" url="images/_-14.jpg" pan="-320.49" id="Point08" target=""/>
-      <hotspot skinid="ht_image" tilt="-7.51" title="" description="" url="images/__-8.jpg" pan="-358.61" id="Point09" target=""/>
-      <hotspot skinid="ht_image" tilt="-14.81" title="" description="" url="images/__2-2.jpg" pan="-350.79" id="Point10" target=""/>
-      <hotspot skinid="ht_image" tilt="2.12" title="" description="" url="images/_-15.jpg" pan="-50.17" id="Point11" target=""/>
+      <hotspot target="" skinid="ht_image" pan="-157.61" title="" url="images/Чистая_тумба.jpg" tilt="-7.79" id="Point01" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-182.41" title="" url="images/Чистая_самовар.jpg" tilt="-16.98" id="Point02" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-173.63" title="" url="images/Чистая_зеркало.jpg" tilt="15.05" id="Point03" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-228.19" title="" url="images/Чистая_стол_наклон.jpg" tilt="-2.26" id="Point04" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-222.55" title="" url="images/Чистая_стол_наклон2.jpg" tilt="-7.68" id="Point05" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-279.51" title="" url="images/Чистая_верстак.jpg" tilt="11.11" id="Point06" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-280.12" title="" url="images/Чистая_верстак2.jpg" tilt="-7.03" id="Point07" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-320.49" title="" url="images/Чистая_часы.jpg" tilt="2.3" id="Point08" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-358.61" title="" url="images/Чистая_стол_диван.jpg" tilt="-7.51" id="Point09" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-350.79" title="" url="images/Чистая_стол_диван2.jpg" tilt="-14.81" id="Point10" description=""/>
+      <hotspot target="" skinid="ht_image" pan="-50.17" title="" url="images/Чистая_печь.jpg" tilt="2.12" id="Point11" description=""/>
       <hotspot skinid="ht_info" tilt="5.43" title="Аннотация" description="     Во второй половине, в правой части флигеля, воссоздан кабинет Пушкина. Обстановка здесь напоминает быт помещиков средней руки. У глухой стены стоит массивный диван, перед ним – стол и стулья. В углу расположены часы, в простенке между окон – бюро, у окна – конторка, недалеко от входа – сундук, на нем дорожные шкатулки.&#xa;&#xa;     На ломберном столе – чайный дорожный набор, свеча в бронзовом подсвечнике. На край стола сдвинута черновая тетрадь «Сказки о золотом петушке». Это единственное законченное произведение третьей Болдинской осени. На рукописи сказки рядом со стихами Пушкина – какие-то цифры, денежные расчеты. Пушкина не оставляли мысли о финансовом положении семьи.   На всех плоскостях конторы – деловые бумаги.  В тот приезд поэту пришлось вникать в хозяйственные дела, проверять документы и счета. Он приехал в Болдино как поверенный отца по управлению имением. Ему пришлось разбираться в проблемах отношений помещика и крестьян, благодаря чему он глубже узнал жизнь крепостного Болдина." url="" pan="-143.56" id="Point12" target=""/>
     </hotspots>
     <media/>
