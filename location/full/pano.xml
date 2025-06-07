@@ -1180,11 +1180,11 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-17.19" title="Сени. 1 точка" url="{node51}" pan="-83.05" id="to_bathhouse_main1" target="" skinid="ht_node" distance="23.7268" description=""/>
-      <hotspot tilt="-30.2" target="" description="" id="Point01" url="images/Главная_дрова.jpg" skinid="ht_image" title="" pan="-195.65"/>
-      <hotspot tilt="-35.68" target="" description="" id="Point02" url="images/Главная_бочка.jpg" skinid="ht_image" title="" pan="-144.52"/>
-      <hotspot tilt="-1.58" target="" description="" id="Point03" url="images/Главная_кочерга.jpg" skinid="ht_image" title="" pan="-148.21"/>
-      <hotspot tilt="23.45" target="" description="" id="Point04" url="images/Главная_фонарь.jpg" skinid="ht_image" title="" pan="-147.79"/>
-      <hotspot tilt="-30.48" target="" description="" id="Point05" url="images/Главная_ящик.jpg" skinid="ht_image" title="" pan="-48.44"/>
+      <hotspot tilt="-30.2" target="" description="" id="Point01" url="images/bathimg/canopy_firewood.jpg" skinid="ht_image" title="" pan="-195.65"/>
+      <hotspot tilt="-35.68" target="" description="" id="Point02" url="images/bathimg/canopy_barrel.jpg" skinid="ht_image" title="" pan="-144.52"/>
+      <hotspot tilt="-1.58" target="" description="" id="Point03" url="images/bathimg/canopy_poker.jpg" skinid="ht_image" title="" pan="-148.21"/>
+      <hotspot tilt="23.45" target="" description="" id="Point04" url="images/bathimg/canopy_flashlight.jpg" skinid="ht_image" title="" pan="-147.79"/>
+      <hotspot tilt="-30.48" target="" description="" id="Point05" url="images/bathimg/canopy_box.jpg" skinid="ht_image" title="" pan="-48.44"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" delay="none" type="crossdissolve" zoomin="0" enabled="1" zoomspeed="2"/>
@@ -1209,9 +1209,9 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot skinid="ht_node" tilt="-16.38" title="Моечная" description="" url="{node55}" pan="-174.47" id="to_bathhouse_anteroom" target=""/>
-      <hotspot tilt="7.02" target="" description="" id="Point01" url="images/Парная_печь.jpg" skinid="ht_image" title="" pan="-204.64"/>
-      <hotspot tilt="1.05" target="" description="" id="Point02" url="images/Парная_полки.jpg" skinid="ht_image" title="" pan="-270.06"/>
-      <hotspot tilt="-17.81" target="" description="" id="Point03" url="images/Парная_тазик.jpg" skinid="ht_image" title="" pan="-134.21"/>
+      <hotspot tilt="7.02" target="" description="" id="Point01" url="images/bathimg/steam_stove.jpg" skinid="ht_image" title="" pan="-204.64"/>
+      <hotspot tilt="1.05" target="" description="" id="Point02" url="images/bathimg/steam_shelves.jpg" skinid="ht_image" title="" pan="-270.06"/>
+      <hotspot tilt="-17.81" target="" description="" id="Point03" url="images/bathimg/steam_basin.jpg" skinid="ht_image" title="" pan="-134.21"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" delay="none" type="crossdissolve" zoomin="0" enabled="1" zoomspeed="2"/>
@@ -1236,12 +1236,12 @@
       <label wordwrap="1" height="20" borderradius="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" background="1" width="180" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" enabled="1"/>
       <polystyle backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-15.51" title="Сени. Точка 1" url="{node51}" pan="-39.46" id="to_bathhouse_main1" target="" skinid="ht_node" distance="86.1829" description=""/>
-      <hotspot tilt="-2.09" target="" description="" id="Point01" url="images/Прачечная_столовые_приборы.jpg" skinid="ht_image" title="" pan="-10.06"/>
-      <hotspot tilt="16.71" target="" description="" id="Point02" url="images/Прачечная_печь.jpg" skinid="ht_image" title="" pan="-343.35"/>
-      <hotspot tilt="-16.23" target="" description="" id="Point03" url="images/Прачечная_зеркальце.jpg" skinid="ht_image" title="" pan="-84.95"/>
-      <hotspot tilt="-22.47" target="" description="" id="Point04" url="images/Прачечная_горшок.jpg" skinid="ht_image" title="" pan="-170.49"/>
-      <hotspot tilt="-8.22" target="" description="" id="Point05" url="images/Прачечная_стирка.jpg" skinid="ht_image" title="" pan="-222.76"/>
-      <hotspot tilt="-7.96" target="" description="" id="Point06" url="images/Прачечная_корыто.jpg" skinid="ht_image" title="" pan="-264.42"/>
+      <hotspot tilt="-2.09" target="" description="" id="Point01" url="images/bathimg/laundy_device.jpg" skinid="ht_image" title="" pan="-10.06"/>
+      <hotspot tilt="16.71" target="" description="" id="Point02" url="images/bathimg/laundry_stove.jpg" skinid="ht_image" title="" pan="-343.35"/>
+      <hotspot tilt="-16.23" target="" description="" id="Point03" url="images/bathimg/laundry_mirror.jpg" skinid="ht_image" title="" pan="-84.95"/>
+      <hotspot tilt="-22.47" target="" description="" id="Point04" url="images/bathimg/laundry_towel.jpg" skinid="ht_image" title="" pan="-170.49"/>
+      <hotspot tilt="-8.22" target="" description="" id="Point05" url="images/bathimg/laundry_wash.jpg" skinid="ht_image" title="" pan="-222.76"/>
+      <hotspot tilt="-7.96" target="" description="" id="Point06" url="images/bathimg/laundry_trough.jpg" skinid="ht_image" title="" pan="-264.42"/>
     </hotspots>
     <media/>
     <transition blendtime="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomoutpause="1" zoomout="0" zoomfov="40" zoomafteroutfov="40" delay="none" type="crossdissolve" zoomin="0" enabled="1" zoomspeed="2"/>
