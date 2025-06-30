@@ -1,4 +1,4 @@
-## Hi there 👋
+Virtual tour of the A.S. Pushkin Museum-Reserve "Boldino"
 
 <!--
 **StudentNGTU/StudentNGTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
