@@ -1,154 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="7.1.9" hassounds="0" start="node18" apprev="20995">
+<tour start="node18" hassounds="0" appversion="7.1.9" apprev="20995">
   <panorama id="node18">
-    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="1680" levelingroll="0" height="1680" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" height="1680" predecode="0" width="1680"/>
-      <level preload="0" height="840" predecode="0" width="840"/>
-      <level preload="1" height="420" predecode="1" width="420"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="1680" height="1680" levelingroll="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" height="1680" preload="0" predecode="0"/>
+      <level width="840" height="840" preload="0" predecode="0"/>
+      <level width="420" height="420" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="49.9">
-      <start tilt="-13.5967" fov="100" projection="4" pan="163.925"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1" fov="140" pan="360"/>
+      <start pan="163.925" tilt="-13.5967" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360"/>
     </view>
-    <userdata tags="" nodeid="node18" author="" datetime="03.04.2025 14:04" copyright="" title="Сени. Точка 1" info="" latitude="55.002903" description="" comment="" customnodeid="" source="" longitude="45.307206" altitude="198.52" heading="49.9"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label border="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" background="1" backgroundalpha="1" width="180" wordwrap="1" height="20" textalpha="1" enabled="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-18.62" title="Сени. Точка 2" pan="-195.27" target="" description="" distance="23.7268" id="to_bathhouse_main2" url="{node19}" skinid="ht_node"/>
-      <hotspot tilt="-21.59" target="" description="" id="to_bathhouse_anteroom" url="{node22}" skinid="ht_node" title="Моечная" pan="-286.29"/>
-      <hotspot tilt="-17.68" title="Прачечная" pan="-118.53" target="" description="" distance="86.1829" id="to_bathhouse_washroom" url="{node21}" skinid="ht_node"/>
-      <hotspot tilt="-3.64" target="" description="" id="to_street" url="" skinid="ht_node" title="На_Улицу" pan="-20.98"/>
-      <hotspot tilt="22.08" target="" description="     В 1980-90-е годы в музее-заповеднике «Болдино» был восстановлен комплекс усадебных построек при болдинском барском доме, в том числе и банька. Подлинные постройки не уцелели до нашего времени. Но археологические раскопки позволили установить их точное местонахождение, определить площадь и планировку.&#xa;&#xa;     Бревенчатая баня стоит на фундаменте из природного камня-плитнякА. Низкое крыльцо ведет в сени с чердачной лесенкой. Справа от входа – дверь в ту часть, где находится собственно баня с печкой-каменкой, широкими лавками, деревянными кадками для воды и связками березовых веников на стенАх предбанника.&#xa;&#xa;     Напротив – помещение для прачечной. О его предназначении говорит кирпичная плита, деревянное корыто на лавке у окна. Плетеный сундучок будто предназначен для выстиранного и отглаженного барского белья.&#xa;&#xa;     Так повелось издавна, что лучшим местом для гаданий считалась именно баня.  Гаданий было великое множество. В комнате обращает на себя внимание небольшой столик, покрытый нарядным платком. На нем – зеркало, два чайных прибора. О другом способе гадания напоминает большое деревянное блюдо: было гадание с восковыми уточками, которые смирно сидят на тарелочке и ждут своего часа. Обряды святочных гаданий, распространённые в пушкинское время и в дворянской, и в крестьянской среде, в наши дни оживают здесь во время зимних святок." id="Point01" url="" skinid="ht_info" title="Аннотация" pan="-66.62"/>
+    <userdata datetime="03.04.2025 14:04" latitude="55.002903" heading="49.9" comment="" author="" altitude="198.52" source="" longitude="45.307206" info="" customnodeid="" copyright="" tags="" description="" nodeid="node18" title="Сени. Точка 1"/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" border="1" enabled="1" background="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="to_bathhouse_main2" target="" pan="-195.27" tilt="-18.62" url="{node19}" distance="23.7268" skinid="ht_node" description="" title="Сени. Точка 2"/>
+      <hotspot pan="-286.29" tilt="-21.59" url="{node22}" id="to_bathhouse_anteroom" skinid="ht_node" target="" description="" title="Моечная"/>
+      <hotspot id="to_bathhouse_washroom" target="" pan="-118.53" tilt="-17.68" url="{node21}" distance="86.1829" skinid="ht_node" description="" title="Прачечная"/>
+      <hotspot pan="-20.98" tilt="-3.64" url="" id="to_street" skinid="ht_node" target="" description="" title="На_Улицу"/>
+      <hotspot pan="-66.62" tilt="22.08" url="" id="Point01" skinid="ht_info" target="" description="     В 1980-90-е годы в музее-заповеднике «Болдино» был восстановлен комплекс усадебных построек при болдинском барском доме, в том числе и банька. Подлинные постройки не уцелели до нашего времени. Но археологические раскопки позволили установить их точное местонахождение, определить площадь и планировку.&#xa;&#xa;     Бревенчатая баня стоит на фундаменте из природного камня-плитнякА. Низкое крыльцо ведет в сени с чердачной лесенкой. Справа от входа – дверь в ту часть, где находится собственно баня с печкой-каменкой, широкими лавками, деревянными кадками для воды и связками березовых веников на стенАх предбанника.&#xa;&#xa;     Напротив – помещение для прачечной. О его предназначении говорит кирпичная плита, деревянное корыто на лавке у окна. Плетеный сундучок будто предназначен для выстиранного и отглаженного барского белья.&#xa;&#xa;     Так повелось издавна, что лучшим местом для гаданий считалась именно баня.  Гаданий было великое множество. В комнате обращает на себя внимание небольшой столик, покрытый нарядным платком. На нем – зеркало, два чайных прибора. О другом способе гадания напоминает большое деревянное блюдо: было гадание с восковыми уточками, которые смирно сидят на тарелочке и ждут своего часа. Обряды святочных гаданий, распространённые в пушкинское время и в дворянской, и в крестьянской среде, в наши дни оживают здесь во время зимних святок." title="Аннотация"/>
     </hotspots>
     <media/>
-    <transition enabled="1" blendtime="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomfov="40" zoomout="0" delay="none" type="crossdissolve"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" invertcontrol="1" speedwheel="1" contextfullscreen="1" hideabout="0" lockedwheel="0" simulatemass="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" lockedmouse="0" contextprojections="0"/>
+    <transition zoomoutpause="1" zoomin="0" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomout="0" blendcolor="0x000000" zoomfov="40" softedge="0" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" zoomcentercursor="1" contextvr="1" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node19">
-    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="1680" levelingroll="0" height="1680" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" height="1680" predecode="0" width="1680"/>
-      <level preload="0" height="840" predecode="0" width="840"/>
-      <level preload="1" height="420" predecode="1" width="420"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="1680" height="1680" levelingroll="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" height="1680" preload="0" predecode="0"/>
+      <level width="840" height="840" preload="0" predecode="0"/>
+      <level width="420" height="420" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="357.4">
-      <start tilt="-14.1066" fov="100" projection="4" pan="-156.185"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1" fov="140" pan="360"/>
+      <start pan="-156.185" tilt="-14.1066" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360"/>
     </view>
-    <userdata tags="" nodeid="node19" author="" datetime="03.04.2025 14:05" copyright="" title="Сени. Точка 2" info="" latitude="55.002694" description="" comment="" customnodeid="" source="" longitude="45.307281" altitude="195.98" heading="357.4"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label border="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" background="1" backgroundalpha="1" width="180" wordwrap="1" height="20" textalpha="1" enabled="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-17.19" title="Сени. 1 точка" pan="-83.05" target="" description="" distance="23.7268" id="to_bathhouse_main1" url="{node18}" skinid="ht_node"/>
-      <hotspot tilt="-30.2" target="" description="" id="Point01" url="images/Главная_дрова.jpg" skinid="ht_image" title="" pan="-195.65"/>
-      <hotspot tilt="-35.68" target="" description="" id="Point02" url="images/Главная_бочка.jpg" skinid="ht_image" title="" pan="-144.52"/>
-      <hotspot tilt="-1.58" target="" description="" id="Point03" url="images/Главная_кочерга.jpg" skinid="ht_image" title="" pan="-148.21"/>
-      <hotspot tilt="23.45" target="" description="" id="Point04" url="images/Главная_фонарь.jpg" skinid="ht_image" title="" pan="-147.79"/>
-      <hotspot tilt="-30.48" target="" description="" id="Point05" url="images/Главная_ящик.jpg" skinid="ht_image" title="" pan="-48.44"/>
+    <userdata datetime="03.04.2025 14:05" latitude="55.002694" heading="357.4" comment="" author="" altitude="195.98" source="" longitude="45.307281" info="" customnodeid="" copyright="" tags="" description="" nodeid="node19" title="Сени. Точка 2"/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" border="1" enabled="1" background="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="to_bathhouse_main1" target="" pan="-83.05" tilt="-17.19" url="{node18}" distance="23.7268" skinid="ht_node" description="" title="Сени. 1 точка"/>
+      <hotspot pan="-195.76" tilt="-30.19" url="images/_-2.jpg" id="Point01" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-144.52" tilt="-35.68" url="images/_-1.jpg" id="Point02" skinid="ht_image" target="" description="Типа таз" title=""/>
+      <hotspot pan="-148.21" tilt="-1.58" url="images/_.jpg" id="Point03" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-147.79" tilt="23.45" url="images/canopy_flashlight.jpg" id="Point04" skinid="ht_image" target="" description="" title="Фонарь"/>
+      <hotspot pan="-48.44" tilt="-30.48" url="images/_-4.jpg" id="Point05" skinid="ht_image" target="" description="" title=""/>
     </hotspots>
     <media/>
-    <transition enabled="1" blendtime="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomfov="40" zoomout="0" delay="none" type="crossdissolve"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" invertcontrol="1" speedwheel="1" contextfullscreen="1" hideabout="0" lockedwheel="0" simulatemass="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" lockedmouse="0" contextprojections="0"/>
+    <transition zoomoutpause="1" zoomin="0" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomout="0" blendcolor="0x000000" zoomfov="40" softedge="0" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" zoomcentercursor="1" contextvr="1" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node20">
-    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="1680" levelingroll="0" height="1680" levelingpitch="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" height="1680" predecode="0" width="1680"/>
-      <level preload="0" height="840" predecode="0" width="840"/>
-      <level preload="1" height="420" predecode="1" width="420"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="1680" height="1680" levelingroll="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" height="1680" preload="0" predecode="0"/>
+      <level width="840" height="840" preload="0" predecode="0"/>
+      <level width="420" height="420" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="306.3">
-      <start tilt="-11.5573" fov="100" projection="4" pan="165.707"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1" fov="140" pan="360"/>
+      <start pan="165.707" tilt="-11.5573" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360"/>
     </view>
-    <userdata tags="" nodeid="node20" author="" datetime="03.04.2025 14:02" copyright="" title="Парилка" info="" latitude="55.002892" description="" comment="" customnodeid="" source="" longitude="45.307342" altitude="197.92" heading="306.3"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label border="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" background="1" backgroundalpha="1" width="180" wordwrap="1" height="20" textalpha="1" enabled="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-16.38" target="" description="" id="to_bathhouse_anteroom" url="{node22}" skinid="ht_node" title="Моечная" pan="-174.47"/>
-      <hotspot tilt="7.02" target="" description="" id="Point01" url="images/Парная_печь.jpg" skinid="ht_image" title="" pan="-204.64"/>
-      <hotspot tilt="1.05" target="" description="" id="Point02" url="images/Парная_полки.jpg" skinid="ht_image" title="" pan="-270.06"/>
-      <hotspot tilt="-17.81" target="" description="" id="Point03" url="images/Парная_тазик.jpg" skinid="ht_image" title="" pan="-134.21"/>
+    <userdata datetime="03.04.2025 14:02" latitude="55.002892" heading="306.3" comment="" author="" altitude="197.92" source="" longitude="45.307342" info="" customnodeid="" copyright="" tags="" description="" nodeid="node20" title="Парилка"/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" border="1" enabled="1" background="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-174.47" tilt="-16.38" url="{node22}" id="to_bathhouse_anteroom" skinid="ht_node" target="" description="" title="Моечная"/>
+      <hotspot pan="-204.64" tilt="7.02" url="images/_-12.jpg" id="Point01" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-270.06" tilt="1.05" url="images/_-13.jpg" id="Point02" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-134.21" tilt="-17.81" url="images/_-14.jpg" id="Point03" skinid="ht_image" target="" description="" title=""/>
     </hotspots>
     <media/>
-    <transition enabled="1" blendtime="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomfov="40" zoomout="0" delay="none" type="crossdissolve"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" invertcontrol="1" speedwheel="1" contextfullscreen="1" hideabout="0" lockedwheel="0" simulatemass="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" lockedmouse="0" contextprojections="0"/>
+    <transition zoomoutpause="1" zoomin="0" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomout="0" blendcolor="0x000000" zoomfov="40" softedge="0" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" zoomcentercursor="1" contextvr="1" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node21">
-    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="1680" levelingroll="0" height="1680" levelingpitch="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" height="1680" predecode="0" width="1680"/>
-      <level preload="0" height="840" predecode="0" width="840"/>
-      <level preload="1" height="420" predecode="1" width="420"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="1680" height="1680" levelingroll="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" height="1680" preload="0" predecode="0"/>
+      <level width="840" height="840" preload="0" predecode="0"/>
+      <level width="420" height="420" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="21.1">
-      <start tilt="-14.3691" fov="100" projection="4" pan="-50.3551"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1" fov="140" pan="360"/>
+      <start pan="-50.3551" tilt="-14.3691" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360"/>
     </view>
-    <userdata tags="" nodeid="node21" author="" datetime="03.04.2025 12:31" copyright="" title="Прачечная" info="" latitude="55.003678" description="" comment="" customnodeid="" source="" longitude="45.307189" altitude="197.46" heading="21.1"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label border="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" background="1" backgroundalpha="1" width="180" wordwrap="1" height="20" textalpha="1" enabled="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-15.51" title="Сени. Точка 1" pan="-39.46" target="" description="" distance="86.1829" id="to_bathhouse_main1" url="{node18}" skinid="ht_node"/>
-      <hotspot tilt="-2.09" target="" description="" id="Point01" url="images/Прачечная_столовые_приборы.jpg" skinid="ht_image" title="" pan="-10.06"/>
-      <hotspot tilt="16.71" target="" description="" id="Point02" url="images/Прачечная_печь.jpg" skinid="ht_image" title="" pan="-343.35"/>
-      <hotspot tilt="-16.23" target="" description="" id="Point03" url="images/Прачечная_зеркальце.jpg" skinid="ht_image" title="" pan="-84.95"/>
-      <hotspot tilt="-22.47" target="" description="" id="Point04" url="images/Прачечная_горшок.jpg" skinid="ht_image" title="" pan="-170.49"/>
-      <hotspot tilt="-8.22" target="" description="" id="Point05" url="images/Прачечная_стирка.jpg" skinid="ht_image" title="" pan="-222.76"/>
-      <hotspot tilt="-7.96" target="" description="" id="Point06" url="images/Прачечная_корыто.jpg" skinid="ht_image" title="" pan="-264.42"/>
+    <userdata datetime="03.04.2025 12:31" latitude="55.003678" heading="21.1" comment="" author="" altitude="197.46" source="" longitude="45.307189" info="" customnodeid="" copyright="" tags="" description="" nodeid="node21" title="Прачечная"/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" border="1" enabled="1" background="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="to_bathhouse_main1" target="" pan="-39.46" tilt="-15.51" url="{node18}" distance="86.1829" skinid="ht_node" description="" title="Сени. Точка 1"/>
+      <hotspot pan="-10.06" tilt="-2.09" url="images/__-1.jpg" id="Point01" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-343.35" tilt="16.71" url="images/_-15.jpg" id="Point02" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-84.95" tilt="-16.23" url="images/_-16.jpg" id="Point03" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-170.49" tilt="-22.47" url="images/_-17.jpg" id="Point04" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-222.76" tilt="-8.22" url="images/_-18.jpg" id="Point05" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-264.42" tilt="-7.96" url="images/_-19.jpg" id="Point06" skinid="ht_image" target="" description="" title=""/>
     </hotspots>
     <media/>
-    <transition enabled="1" blendtime="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomfov="40" zoomout="0" delay="none" type="crossdissolve"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" invertcontrol="1" speedwheel="1" contextfullscreen="1" hideabout="0" lockedwheel="0" simulatemass="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" lockedmouse="0" contextprojections="0"/>
+    <transition zoomoutpause="1" zoomin="0" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomout="0" blendcolor="0x000000" zoomfov="40" softedge="0" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" zoomcentercursor="1" contextvr="1" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node22">
-    <input overlap="1" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" width="1680" levelingroll="0" height="1680" levelingpitch="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level preload="0" height="1680" predecode="0" width="1680"/>
-      <level preload="0" height="840" predecode="0" width="840"/>
-      <level preload="1" height="420" predecode="1" width="420"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="1680" height="1680" levelingroll="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelbias="0.400" levelingpitch="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1680" height="1680" preload="0" predecode="0"/>
+      <level width="840" height="840" preload="0" predecode="0"/>
+      <level width="420" height="420" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="178.9">
-      <start tilt="-9.76081" fov="100" projection="4" pan="32.8514"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fovstereographic="330" tilt="90" fovfisheye="360" scaletofit="1" fov="140" pan="360"/>
+      <start pan="32.8514" tilt="-9.76081" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovstereographic="330" scaletofit="1" fov="140" fovfisheye="360"/>
     </view>
-    <userdata tags="" nodeid="node22" author="" datetime="03.04.2025 12:36" copyright="" title="Моечная" info="" latitude="" description="" comment="" customnodeid="" source="" longitude="" heading="178.9"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label border="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" bordercolor="0x000000" background="1" backgroundalpha="1" width="180" wordwrap="1" height="20" textalpha="1" enabled="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-21.57" target="" description="" id="to_bathhouse_main1" url="{node18}" skinid="ht_node" title="Сени. Точка 1" pan="-305.13"/>
-      <hotspot tilt="-19.64" target="" description="" id="to_bathhouse_steamRoom" url="{node20}" skinid="ht_node" title="Парилка" pan="-39.68"/>
-      <hotspot tilt="14.76" target="" description="" id="Point01" url="images/Предбанник_черпак.jpg" skinid="ht_image" title="" pan="-74.03"/>
-      <hotspot tilt="-46.89" target="" description="" id="Point02" url="images/Предбанник_ведерко.jpg" skinid="ht_image" title="" pan="-91.64"/>
-      <hotspot tilt="-23.89" target="" description="" id="Point03" url="images/Предбанник_бочонок.jpg" skinid="ht_image" title="" pan="-123.98"/>
-      <hotspot tilt="16.81" target="" description="" id="Point04" url="images/Предбанник_веники.jpg" skinid="ht_image" title="" pan="-124.54"/>
-      <hotspot tilt="18.31" target="" description="" id="Point05" url="images/Предбанник_полотенце.jpg" skinid="ht_image" title="" pan="-160.06"/>
-      <hotspot tilt="-46.84" target="" description="" id="Point06" url="images/Предбанник_тумбочка.jpg" skinid="ht_image" title="" pan="-187.91"/>
-      <hotspot tilt="-12.27" target="" description="" id="Point07" url="images/Предбанник_бочка.jpg" skinid="ht_image" title="" pan="-262.8"/>
-      <hotspot tilt="-25.65" target="" description="" id="Point08" url="images/Предбанник_тазик_вени.jpg" skinid="ht_image" title="" pan="-336.71"/>
+    <userdata datetime="03.04.2025 12:36" latitude="" heading="178.9" comment="" author="" source="" longitude="" info="" customnodeid="" copyright="" tags="" description="" nodeid="node22" title="Моечная"/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" border="1" enabled="1" background="1" textalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-305.13" tilt="-21.57" url="{node18}" id="to_bathhouse_main1" skinid="ht_node" target="" description="" title="Сени. Точка 1"/>
+      <hotspot pan="-39.68" tilt="-19.64" url="{node20}" id="to_bathhouse_steamRoom" skinid="ht_node" target="" description="" title="Парилка"/>
+      <hotspot pan="-74.03" tilt="14.76" url="images/_-5.jpg" id="Point01" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-91.64" tilt="-46.89" url="images/anter_bucket.jpg" id="Point02" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-123.98" tilt="-23.89" url="images/_-7.jpg" id="Point03" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-124.54" tilt="16.81" url="images/_-8.jpg" id="Point04" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-160.06" tilt="18.31" url="images/_-9.jpg" id="Point05" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-187.91" tilt="-46.84" url="images/_-10.jpg" id="Point06" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-262.8" tilt="-12.27" url="images/_-11.jpg" id="Point07" skinid="ht_image" target="" description="" title=""/>
+      <hotspot pan="-336.71" tilt="-25.65" url="images/__.jpg" id="Point08" skinid="ht_image" target="" description="" title=""/>
     </hotspots>
     <media/>
-    <transition enabled="1" blendtime="1" zoomafteroutfov="40" softedge="0" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" zoomfov="40" zoomout="0" delay="none" type="crossdissolve"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" lockedkeyboard="0" contextvr="1" invertcontrol="1" speedwheel="1" contextfullscreen="1" hideabout="0" lockedwheel="0" simulatemass="1" invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" rubberband="0" sensitivity="8" lockedmouse="0" contextprojections="0"/>
+    <transition zoomoutpause="1" zoomin="0" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomout="0" blendcolor="0x000000" zoomfov="40" softedge="0" blendtime="1" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control lockedwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedkeyboard="0" speedwheel="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" zoomcentercursor="1" contextvr="1" invertwheel="0" sensitivity="8"/>
   </panorama>
   <masternode>
-    <userdata tags="" description="" comment="" author="" copyright="" title=""/>
+    <userdata copyright="" comment="" tags="" description="" author="" title=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>

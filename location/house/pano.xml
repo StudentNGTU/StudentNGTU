@@ -1,389 +1,389 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="7.1.9" hassounds="0" start="node11" apprev="20995">
+<tour start="node11" apprev="20995" appversion="7.1.9" hassounds="0">
   <panorama id="node11">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="124.1">
-      <start projection="4" pan="-31.047" tilt="-4.76432" fov="126.651"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="-31.047" tilt="-4.76432" fov="126.651" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata latitude="" nodeid="node11" description="" comment="" datetime="03.04.2025 11:12" tags="" longitude="" source="" author="" copyright="" info="" heading="124.1" title="Передняя" customnodeid=""/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot url="{node8}" description="" pan="-30.25" skinid="ht_node" tilt="-12.22" target="86.3/-3.5/100.0" title="Зальце" id="to_house_hall"/>
-      <hotspot url="" description="" pan="-207.99" skinid="ht_node" tilt="-1.3" target="" title="На улицу" id="to_street"/>
-      <hotspot url="" description="     Болдинский дом Пушкиных – подлинный. Он сохранился с начала позапрошлого столетия и помнит несколько поколений владельцев этой усадьбы. За долгие годы своего сосуществования дом претерпел ряд переделок. Во времена Александра Сергеевича он не имел мезонина – его надстроили в 1840-е годы.&#xa;&#xa;     В  конце XIX века появился северо-западный пристрой, в котором расположились комнаты хозяйственного назначения. Но, тем не менее здание сохранило черты, характерные для русского классицизма, и его архитектурный облик ассоциируется с пушкинской эпохой. А, самое главное, планировка основных помещений первого этажа при перестройках не менялась – и дом до наших дней сохранил те самые комнаты, в которых жил поэт. Они расположены в две анфилады – парадную и жилую. В них располагаются  мемориально-бытовая и литературная экспозиции, повествующие о пребывании Пушкина в Болдине в 1830 и 1833 гг.&#xa;&#xa;     В первой комнате дома - передней - обычно хозяева и гости снимали верхнюю одежду. У стены на сундучке лежат крылатка, цилиндр, трость. На стенах - копии архивных документов по истории старинного дворянского рода Пушкиных:&#xa;&#xa;     - Родословная роспись (генеалогическое древо);&#xa;     - Лист с изображением герба рода Пушкиных.&#xa;&#xa;     Они расположены здесь неслучайно. Более 300 лет предки Александра Сергеевича были владельцами Болдина.  К тому же, перед отъездом Пушкина в Болдино, в августе 1830 г. в Москве умер его дядя Василий Львович. От него поэту перешли документы, связанные с историей древнего пушкинского рода. Поэт мог взять их с собою в Болдино." pan="-132.58" skinid="ht_info" tilt="10.97" target="" title="Аннотация" id="Point01"/>
-      <hotspot url="images/Одеяние.jpg" description="" pan="-351.35" skinid="ht_image" tilt="-22.23" target="" title="" id="Point02"/>
-      <hotspot url="images/КартинаПередняя1.jpg" description="" pan="-118.95" skinid="ht_image" tilt="23.17" target="" title="" id="Point03"/>
-      <hotspot url="images/КартинаПередняя.jpg" description="" pan="-10.1" skinid="ht_image" tilt="25.94" target="" title="" id="Point04"/>
-      <hotspot url="images/Аннотацияпередняя.jpg" description="" pan="-122.1" skinid="ht_image" tilt="1.22" target="" title="" id="Point05"/>
+    <userdata tags="" comment="" title="Передняя" info="" heading="124.1" description="ГОСПОДСКИЙ ДОМ" nodeid="node11" copyright="" customnodeid="" datetime="03.04.2025 11:12" latitude="" source="" longitude="" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node8}" title="Зальце" pan="-30.25" description="" skinid="ht_node" tilt="-12.22" target="86.3/-3.5/100.0" id="to_house_hall"/>
+      <hotspot url="" title="На улицу" pan="-207.99" description="" skinid="ht_node" tilt="-1.3" target="" id="to_street"/>
+      <hotspot url="" title="Аннотация" pan="-132.58" description="     Болдинский дом Пушкиных – подлинный. Он сохранился с начала позапрошлого столетия и помнит несколько поколений владельцев этой усадьбы. За долгие годы своего сосуществования дом претерпел ряд переделок. Во времена Александра Сергеевича он не имел мезонина – его надстроили в 1840-е годы.&#xa;&#xa;     В  конце XIX века появился северо-западный пристрой, в котором расположились комнаты хозяйственного назначения. Но, тем не менее здание сохранило черты, характерные для русского классицизма, и его архитектурный облик ассоциируется с пушкинской эпохой. А, самое главное, планировка основных помещений первого этажа при перестройках не менялась – и дом до наших дней сохранил те самые комнаты, в которых жил поэт. Они расположены в две анфилады – парадную и жилую. В них располагаются  мемориально-бытовая и литературная экспозиции, повествующие о пребывании Пушкина в Болдине в 1830 и 1833 гг.&#xa;&#xa;     В первой комнате дома - передней - обычно хозяева и гости снимали верхнюю одежду. У стены на сундучке лежат крылатка, цилиндр, трость. На стенах - копии архивных документов по истории старинного дворянского рода Пушкиных:&#xa;&#xa;     - Родословная роспись (генеалогическое древо);&#xa;     - Лист с изображением герба рода Пушкиных.&#xa;&#xa;     Они расположены здесь неслучайно. Более 300 лет предки Александра Сергеевича были владельцами Болдина.  К тому же, перед отъездом Пушкина в Болдино, в августе 1830 г. в Москве умер его дядя Василий Львович. От него поэту перешли документы, связанные с историей древнего пушкинского рода. Поэт мог взять их с собою в Болдино." skinid="ht_info" tilt="10.97" target="" id="Point01"/>
+      <hotspot url="images/front_cloth.jpg" title="" pan="-351.35" description="" skinid="ht_image" tilt="-22.23" target="" id="Point02"/>
+      <hotspot url="images/front_pic2.jpg" title="" pan="-118.95" description="" skinid="ht_image" tilt="23.17" target="" id="Point03"/>
+      <hotspot url="images/front_pic.jpg" title="" pan="-10.1" description="" skinid="ht_image" tilt="25.94" target="" id="Point04"/>
+      <hotspot url="images/_-22.jpg" title="" pan="-122.1" description="" skinid="ht_image" tilt="1.22" target="" id="Point05"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node8">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="357.8">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002844" nodeid="node8" description="" comment="" datetime="03.04.2025 10:40" tags="" longitude="45.309075" source="" author="" copyright="" info="" heading="357.8" title="Зальце" altitude="196.30"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot url="{node11}" description="" pan="-2.38" skinid="ht_node" tilt="-10.23" target="" title="Передняя" id="to_house_front"/>
-      <hotspot description="" distance="28.9399" pan="-180.69" skinid="ht_node" tilt="-11.32" target="" id="to_house_work" url="{node14}" title="Рабочий кабинет"/>
-      <hotspot url="images/Зальце1_2.jpg" description="" pan="-275.84" skinid="ht_image" tilt="-9.36" target="" title="" id="Point01"/>
-      <hotspot url="images/Зальце2.jpg" description="" pan="-209.77" skinid="ht_image" tilt="-7.72" target="" title="" id="Point02"/>
-      <hotspot url="images/Зальце3.jpg" description="" pan="-157.21" skinid="ht_image" tilt="-4.79" target="" title="" id="Point03"/>
-      <hotspot url="images/Зальце3Доп1.jpg" description="" pan="-157.49" skinid="ht_image" tilt="15.69" target="" title="" id="Point04"/>
-      <hotspot url="images/ЗальцеЦентр1.jpg" description="" pan="-255.62" skinid="ht_image" tilt="14.88" target="" title="" id="Point05"/>
-      <hotspot url="images/ЗальцеЦентр2.jpg" description="" pan="-271.39" skinid="ht_image" tilt="15.73" target="" title="" id="Point06"/>
-      <hotspot url="images/ЗальцеЦентр3.jpg" description="" pan="-287.07" skinid="ht_image" tilt="15.22" target="" title="" id="Point07"/>
-      <hotspot url="images/ЗальцеПраво1.jpg" description="" pan="-197.17" skinid="ht_image" tilt="13.45" target="" title="" id="Point08"/>
-      <hotspot url="images/ЗальцеПраво2.jpg" description="" pan="-208.68" skinid="ht_image" tilt="12.18" target="" title="" id="Point09"/>
-      <hotspot url="images/ЗальцеЛево2.jpg" description="" pan="-329.43" skinid="ht_image" tilt="11.8" target="" title="" id="Point10"/>
-      <hotspot url="images/ЗальцеЛево1.jpg" description="" pan="-340.28" skinid="ht_image" tilt="12.39" target="" title="" id="Point11"/>
-      <hotspot url="images/Аннотация_зальце.jpg" description="" pan="-23.4" skinid="ht_image" tilt="0.77" target="" title="" id="Point12"/>
-      <hotspot url="" description="     Зальце – главное парадное помещение дома. В таких комнатах обычно принимали гостей, обедали, проводили время в семейном кругу.&#xa;&#xa;     При воссоздании его обстановки учитывалась сохранившаяся опись болдинского дома 1849 г.&#xa;&#xa;     У стены между двумя угловыми печами - диван красного дерева, перед ним – круглый стол, вокруг – кресла.  Это подлинная мебель пушкинского времени из этого дома. Когда-то она была продана семье арзамасского купца Вилянова, вышедшего из болдинских крестьян.&#xa;&#xa;     На стенах зальца – фамильные портреты: отец поэта Сергей Львович, дядя Василий Львович,  двоюродный брат деда Алексей Федорович Пушкин и его жена  Сарра Юрьевна, двоюродный дед поэта по матери Иван Абрамович Ганнибал.&#xa;&#xa;     Первый приезд Пушкина в Болдино был связан с его предстоящей женитьбой на Наталье Гончаровой. История сватовства Пушкина и его взаимоотношений с семьей невесты отчасти раскрывается в рисунках поэта и его московских знакомых – сестер Ушаковых (1829-30гг.), копии экспонируются в зальце.&#xa;&#xa;     Три месяца пребывания в Болдине осенью 1830 года - время настоящего холерного заточения, мучительного неведения о невесте, друзьях, близких. На столе перед диваном – номера «Московских ведомостей» и копии конвертов писем от друзей и невесты, которых он с таким нетерпением ждал в болдинском уединении. Здесь же – копия альбома Д.А. Остафьева, брата соседки поэта по болдинскому имению Н.А. Новосильцевой. В альбоме  остался автограф Пушкина – записанное его рукой последнее стихотворение Г.Р. Державина «Река времен»." pan="-29.12" skinid="ht_info" tilt="6.54" target="" title="Аннотация" id="Point13"/>
+    <userdata tags="" comment="" title="Зальце" info="" heading="357.8" description="ГОСПОДСКИЙ ДОМ" nodeid="node8" copyright="" customnodeid="" datetime="03.04.2025 10:40" altitude="196.30" latitude="55.002844" source="" longitude="45.309075" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot url="{node11}" title="Передняя" pan="-2.38" description="" skinid="ht_node" tilt="-10.23" target="" id="to_house_front"/>
+      <hotspot distance="28.9399" title="Рабочий кабинет" pan="-180.69" description="" tilt="-11.32" target="" url="{node14}" skinid="ht_node" id="to_house_work"/>
+      <hotspot url="images/hall1_2.jpg" title="" pan="-275.84" description="" skinid="ht_image" tilt="-9.36" target="" id="Point01"/>
+      <hotspot url="images/hall2.jpg" title="" pan="-209.8" description="" skinid="ht_image" tilt="-7.42" target="" id="Point02"/>
+      <hotspot url="images/hall3.jpg" title="" pan="-157.21" description="" skinid="ht_image" tilt="-4.79" target="" id="Point03"/>
+      <hotspot url="images/hall3dop1.jpg" title="" pan="-157.49" description="" skinid="ht_image" tilt="15.69" target="" id="Point04"/>
+      <hotspot url="images/hall_center1.jpg" title="" pan="-255.62" description="" skinid="ht_image" tilt="14.88" target="" id="Point05"/>
+      <hotspot url="images/hall_center2.jpg" title="" pan="-271.39" description="" skinid="ht_image" tilt="15.73" target="" id="Point06"/>
+      <hotspot url="images/hall_center3.jpg" title="" pan="-287.07" description="" skinid="ht_image" tilt="15.22" target="" id="Point07"/>
+      <hotspot url="images/hall_right1.jpg" title="" pan="-197.17" description="" skinid="ht_image" tilt="13.45" target="" id="Point08"/>
+      <hotspot url="images/hall_right2.jpg" title="" pan="-208.68" description="" skinid="ht_image" tilt="12.18" target="" id="Point09"/>
+      <hotspot url="images/hall_left2.jpg" title="" pan="-329.43" description="" skinid="ht_image" tilt="11.94" target="" id="Point10"/>
+      <hotspot url="images/hall_left1.jpg" title="" pan="-340.28" description="" skinid="ht_image" tilt="12.39" target="" id="Point11"/>
+      <hotspot url="images/hall_ann.jpg" title="" pan="-23.4" description="" skinid="ht_image" tilt="0.77" target="" id="Point12"/>
+      <hotspot url="" title="Аннотация" pan="-29.12" description="     Зальце – главное парадное помещение дома. В таких комнатах обычно принимали гостей, обедали, проводили время в семейном кругу.&#xa;&#xa;     При воссоздании его обстановки учитывалась сохранившаяся опись болдинского дома 1849 г.&#xa;&#xa;     У стены между двумя угловыми печами - диван красного дерева, перед ним – круглый стол, вокруг – кресла.  Это подлинная мебель пушкинского времени из этого дома. Когда-то она была продана семье арзамасского купца Вилянова, вышедшего из болдинских крестьян.&#xa;&#xa;     На стенах зальца – фамильные портреты: отец поэта Сергей Львович, дядя Василий Львович,  двоюродный брат деда Алексей Федорович Пушкин и его жена  Сарра Юрьевна, двоюродный дед поэта по матери Иван Абрамович Ганнибал.&#xa;&#xa;     Первый приезд Пушкина в Болдино был связан с его предстоящей женитьбой на Наталье Гончаровой. История сватовства Пушкина и его взаимоотношений с семьей невесты отчасти раскрывается в рисунках поэта и его московских знакомых – сестер Ушаковых (1829-30гг.), копии экспонируются в зальце.&#xa;&#xa;     Три месяца пребывания в Болдине осенью 1830 года - время настоящего холерного заточения, мучительного неведения о невесте, друзьях, близких. На столе перед диваном – номера «Московских ведомостей» и копии конвертов писем от друзей и невесты, которых он с таким нетерпением ждал в болдинском уединении. Здесь же – копия альбома Д.А. Остафьева, брата соседки поэта по болдинскому имению Н.А. Новосильцевой. В альбоме  остался автограф Пушкина – записанное его рукой последнее стихотворение Г.Р. Державина «Река времен»." skinid="ht_info" tilt="6.54" target="" id="Point13"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node14">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="338.7">
-      <start projection="4" pan="32.7693" tilt="-18.9394" fov="126.651"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="32.7693" tilt="-18.9394" fov="126.651" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002700" nodeid="node14" description="" comment="" datetime="03.04.2025 10:47" tags="" longitude="45.309453" source="" author="" copyright="" info="" heading="338.7" title="Рабочий кабинет" altitude="196.37"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="28.9399" pan="-19.52" skinid="ht_node" tilt="-9.61" target="" id="to_house_hall" url="{node8}" title="Зальце"/>
-      <hotspot description="" distance="52.2744" pan="-279.73" skinid="ht_node" tilt="-11.7" target="" id="to_house_valet" url="{node9}" title="Камердинерская"/>
-      <hotspot url="images/Кабинет_диван.jpg" description="" pan="-95.72" skinid="ht_image" tilt="-0.55" target="" title="" id="Point01"/>
-      <hotspot url="images/Кабинет_кресло_у_дивана.jpg" description="" pan="-150.62" skinid="ht_image" tilt="-6.67" target="" title="" id="Point02"/>
-      <hotspot url="images/Кабинет_рабочий_стол1.jpg" description="" pan="-205.32" skinid="ht_image" tilt="11" target="" title="" id="Point03"/>
-      <hotspot url="images/Кабинет_рабочий_стол2.jpg" description="" pan="-204.01" skinid="ht_image" tilt="-9.08" target="" title="" id="Point04"/>
-      <hotspot url="images/Кабинет_кресло_у_стола.jpg" description="" pan="-233.01" skinid="ht_image" tilt="-6.96" target="" title="" id="Point05"/>
-      <hotspot url="images/Кабинет_шкаф.jpg" description="" pan="-250.52" skinid="ht_image" tilt="13.61" target="" title="" id="Point06"/>
-      <hotspot url="images/Кабинет_полки.jpg" description="" pan="-315.17" skinid="ht_image" tilt="15.88" target="" title="" id="Point07"/>
-      <hotspot url="images/Кабинет_стол1.jpg" description="" pan="-319.14" skinid="ht_image" tilt="-6.99" target="" title="" id="Point08"/>
-      <hotspot url="images/Кабинет_стол.jpg" description="" pan="-332.32" skinid="ht_image" tilt="-6.08" target="" title="" id="Point09"/>
-      <hotspot url="images/Кабинет_картина_пол.jpg" description="" pan="-298.53" skinid="ht_image" tilt="4.63" target="" title="" id="Point10"/>
-      <hotspot url="images/Кабинет_картина3.jpg" description="" pan="-299.55" skinid="ht_image" tilt="16.71" target="" title="" id="Point11"/>
-      <hotspot url="images/Кабинет_картина1.jpg" description="" pan="-340.79" skinid="ht_image" tilt="15.41" target="" title="" id="Point12"/>
-      <hotspot url="images/Кабинет_картина2.jpg" description="" pan="-350.96" skinid="ht_image" tilt="16.03" target="" title="" id="Point13"/>
-      <hotspot url="" description="     Интерьер кабинета, так же, как и зальца, воссоздан с учетом описи 1849 года (в ней перечислена мебель, имевшаяся в этом доме в первой половине XIX в.).&#xa;     &#xa;     Обстановка комнаты, в которой поэт работал, мало напоминает типичный кабинет писателя. Судя по описи, в доме не было даже письменного стола. Но были ломберные - вероятно, один из них стоял в этой комнате. Так же как и кресло, диван, шкаф и секретер.&#xa;&#xa;     Мебель в экспозиции кабинета  –  это вещи пушкинского времени, аналогичные тем, что были здесь когда-то. &#xa; В обстановку кабинета вписывается фрагмент интерьера, восстановленный по рисунку самого поэта, сделанному с натуры в ноябре 1830 года.&#xa;&#xa;     Копия рисунка экспонируется на пюпитре. На нем изображены  книжная полка с несколькими рядами книг и под нею – стол. На столе – стопка книг, бумаги (без сомнения, рукописи), подставка для письма.&#xa;&#xa;     Воссозданию этого фрагмента интерьера предшествовало тщательное изучение рисунка и компьютерный анализ, что позволило выяснить реальные размеры изображенных на нем предметов и следовать рисунку с наибольшей точностью.&#xa;&#xa;     Особое внимание обращают на себя рукописи болдинских произведений Пушкина. На столе под книжной полкой – рукописи нескольких стихотворений осени 1830 года: «Бесы», «Элегия», «Прощанье», «Стихи, сочиненные ночью во время бессонницы», «Для берегов отчизны дальной…»." pan="-57.17" skinid="ht_info" tilt="7.63" target="" title="Аннотация" id="Point14"/>
-      <hotspot url="images/Аннотация_кабинет.jpg" description="" pan="-50.17" skinid="ht_image" tilt="1.1" target="" title="" id="Point15"/>
+    <userdata tags="" comment="" title="Рабочий кабинет" info="" heading="338.7" description="ГОСПОДСКИЙ ДОМ" nodeid="node14" copyright="" customnodeid="" datetime="03.04.2025 10:47" altitude="196.37" latitude="55.002700" source="" longitude="45.309453" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="28.9399" title="Зальце" pan="-19.52" description="" tilt="-9.61" target="" url="{node8}" skinid="ht_node" id="to_house_hall"/>
+      <hotspot distance="52.2744" title="Камердинерская" pan="-279.73" description="" tilt="-11.7" target="" url="{node9}" skinid="ht_node" id="to_house_valet"/>
+      <hotspot url="images/cab_sofa.jpg" title="" pan="-95.73" description="" skinid="ht_image" tilt="-0.4" target="" id="Point01"/>
+      <hotspot url="images/cab_chair_sofa.jpg" title="" pan="-150.65" description="" skinid="ht_image" tilt="-6.54" target="" id="Point02"/>
+      <hotspot url="images/cab_worktable1.jpg" title="" pan="-205.32" description="" skinid="ht_image" tilt="11" target="" id="Point03"/>
+      <hotspot url="images/cab_worktable2.jpg" title="" pan="-204.01" description="" skinid="ht_image" tilt="-9.08" target="" id="Point04"/>
+      <hotspot url="images/cab_chair_table.jpg" title="" pan="-233.03" description="" skinid="ht_image" tilt="-6.81" target="" id="Point05"/>
+      <hotspot url="images/cab_closet.jpg" title="" pan="-250.52" description="" skinid="ht_image" tilt="13.61" target="" id="Point06"/>
+      <hotspot url="images/cab_shelves.jpg" title="" pan="-315.17" description="" skinid="ht_image" tilt="15.88" target="" id="Point07"/>
+      <hotspot url="images/cab_table1.jpg" title="" pan="-319.14" description="" skinid="ht_image" tilt="-6.99" target="" id="Point08"/>
+      <hotspot url="images/cab_table.jpg" title="" pan="-332.14" description="" skinid="ht_image" tilt="-5.91" target="" id="Point09"/>
+      <hotspot url="images/cab_pic_grow.jpg" title="" pan="-298.53" description="" skinid="ht_image" tilt="4.63" target="" id="Point10"/>
+      <hotspot url="images/cap_pic3.jpg" title="" pan="-299.57" description="" skinid="ht_image" tilt="16.8" target="" id="Point11"/>
+      <hotspot url="images/cab_pic1.jpg" title="" pan="-340.79" description="" skinid="ht_image" tilt="15.41" target="" id="Point12"/>
+      <hotspot url="images/cab_pic2.jpg" title="" pan="-350.96" description="" skinid="ht_image" tilt="16.03" target="" id="Point13"/>
+      <hotspot url="" title="Аннотация" pan="-57.17" description="     Интерьер кабинета, так же, как и зальца, воссоздан с учетом описи 1849 года (в ней перечислена мебель, имевшаяся в этом доме в первой половине XIX в.).&#xa;     &#xa;     Обстановка комнаты, в которой поэт работал, мало напоминает типичный кабинет писателя. Судя по описи, в доме не было даже письменного стола. Но были ломберные - вероятно, один из них стоял в этой комнате. Так же как и кресло, диван, шкаф и секретер.&#xa;&#xa;     Мебель в экспозиции кабинета  –  это вещи пушкинского времени, аналогичные тем, что были здесь когда-то. &#xa; В обстановку кабинета вписывается фрагмент интерьера, восстановленный по рисунку самого поэта, сделанному с натуры в ноябре 1830 года.&#xa;&#xa;     Копия рисунка экспонируется на пюпитре. На нем изображены  книжная полка с несколькими рядами книг и под нею – стол. На столе – стопка книг, бумаги (без сомнения, рукописи), подставка для письма.&#xa;&#xa;     Воссозданию этого фрагмента интерьера предшествовало тщательное изучение рисунка и компьютерный анализ, что позволило выяснить реальные размеры изображенных на нем предметов и следовать рисунку с наибольшей точностью.&#xa;&#xa;     Особое внимание обращают на себя рукописи болдинских произведений Пушкина. На столе под книжной полкой – рукописи нескольких стихотворений осени 1830 года: «Бесы», «Элегия», «Прощанье», «Стихи, сочиненные ночью во время бессонницы», «Для берегов отчизны дальной…»." skinid="ht_info" tilt="7.63" target="" id="Point14"/>
+      <hotspot url="images/_.jpg" title="" pan="-50.17" description="" skinid="ht_image" tilt="1.1" target="" id="Point15"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node9">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="359.8">
-      <start projection="4" pan="-24.5853" tilt="-2.90623" fov="107.73"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="-24.5853" tilt="-2.90623" fov="107.73" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002422" nodeid="node9" description="" comment="" datetime="03.04.2025 10:49" tags="" longitude="45.308792" source="" author="" copyright="" info="" heading="359.8" title="Камердинерская" altitude="196.88"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="52.2744" pan="-76.27" skinid="ht_node" tilt="-11.94" target="" id="to_house_work" url="{node14}" title="Рабочий кабинет"/>
-      <hotspot description="" distance="44.2376" pan="-342.39" skinid="ht_node" tilt="-11.5" target="" id="to_house_buffet" url="{node7}" title="Буфетная"/>
-      <hotspot url="images/Камердинерская_кресло.jpg" description="" pan="-119.67" skinid="ht_image" tilt="-5.76" target="" title="" id="Point01"/>
-      <hotspot url="images/Камердинерская_камод.jpg" description="" pan="-149.46" skinid="ht_image" tilt="26.9" target="" title="" id="Point02"/>
-      <hotspot url="images/Камердинерская_сапоги.jpg" description="" pan="-182.42" skinid="ht_image" tilt="-26.89" target="" title="" id="Point03"/>
-      <hotspot url="images/Камердинерская_одеяние.jpg" description="" pan="-205.62" skinid="ht_image" tilt="12.14" target="" title="" id="Point04"/>
-      <hotspot url="images/Камердинерская_диван.jpg" description="" pan="-267" skinid="ht_image" tilt="-1.69" target="" title="" id="Point05"/>
-      <hotspot url="images/Камердинерская_тумба.jpg" description="" pan="-309.23" skinid="ht_image" tilt="4" target="" title="" id="Point06"/>
-      <hotspot url="images/Камердинерская_часы.jpg" description="" pan="-8.25" skinid="ht_image" tilt="30.66" target="" title="" id="Point07"/>
-      <hotspot url="images/Камердинерская_кресло_дрова.jpg" description="" pan="-18.43" skinid="ht_image" tilt="-8.47" target="" title="" id="Point08"/>
-      <hotspot url="" description="     Камердинерская в провинциальных домах дворян располагалась рядом с хозяйскими покоями, чтобы прислуга могла явиться по первому требованию барина. Камердинер, личный слуга барина, хорошо знал привычки хозяина и всегда держал под рукой необходимые предметы для всякой надобности, которые находятся в этой комнате. Побрить хозяина, подать фруктовой воды, до которой Пушкин был охотник, пришить оторвавшуюся пуговицу, срочно погладить галстук. Камердинер считался первым лицом среди прислуги. В отличие от домашних слуг, не имеющих кроватей, он имел свою комнату с диваном, на который мог прилечь при удобном случае.&#xa;&#xa;     С юных лет Пушкин находился на попечении у своего преданного дядьки и камердинера - болдинского дворового человека Никиты Козлова. Он практически всегда находился рядом с барином, сопровождал его в первой ссылке, и, скорее всего, был с ним и в первый приезд в Болдино.  По мнению современников Александра Сергеевича, Никита - человек выдающийся среди дворни Пушкиных. Он даже не чужд был поэтическому искусству и состряпал однажды из народных сказок нечто вроде баллады о Соловье-разбойнике.&#xa;&#xa;     Дядька беззаветно был предан Пушкину и единственный из дворни сопровождал тело умершего поэта к месту его упокоения." pan="-50.87" skinid="ht_info" tilt="6.84" target="" title="Аннотация" id="Point09"/>
-      <hotspot url="images/Аннотация_камердинерская.jpg" description="" pan="-47.06" skinid="ht_image" tilt="0.94" target="" title="" id="Point10"/>
+    <userdata tags="" comment="" title="Камердинерская" info="" heading="359.8" description="ГОСПОДСКИЙ ДОМ" nodeid="node9" copyright="" customnodeid="" datetime="03.04.2025 10:49" altitude="196.88" latitude="55.002422" source="" longitude="45.308792" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="52.2744" title="Рабочий кабинет" pan="-77.24" description="" tilt="-11.76" target="" url="{node14}" skinid="ht_node" id="to_house_work"/>
+      <hotspot distance="44.2376" title="Буфетная" pan="-342.39" description="" tilt="-11.5" target="" url="{node7}" skinid="ht_node" id="to_house_buffet"/>
+      <hotspot url="images/val_chair.jpg" title="" pan="-119.67" description="" skinid="ht_image" tilt="-5.76" target="" id="Point01"/>
+      <hotspot url="images/val_chest.jpg" title="" pan="-149.46" description="" skinid="ht_image" tilt="26.9" target="" id="Point02"/>
+      <hotspot url="images/val_boots.jpg" title="" pan="-182.42" description="" skinid="ht_image" tilt="-26.89" target="" id="Point03"/>
+      <hotspot url="images/val_clothes.jpg" title="" pan="-205.63" description="" skinid="ht_image" tilt="12.26" target="" id="Point04"/>
+      <hotspot url="images/val_sofa.jpg" title="" pan="-267" description="" skinid="ht_image" tilt="-1.54" target="" id="Point05"/>
+      <hotspot url="images/val_pedestal.jpg" title="" pan="-309.23" description="" skinid="ht_image" tilt="4" target="" id="Point06"/>
+      <hotspot url="images/val_clock.jpg" title="" pan="-8.25" description="" skinid="ht_image" tilt="30.66" target="" id="Point07"/>
+      <hotspot url="images/val_chair_firewood.jpg" title="" pan="-18.46" description="" skinid="ht_image" tilt="-8.33" target="" id="Point08"/>
+      <hotspot url="" title="Аннотация" pan="-50.87" description="     Камердинерская в провинциальных домах дворян располагалась рядом с хозяйскими покоями, чтобы прислуга могла явиться по первому требованию барина. Камердинер, личный слуга барина, хорошо знал привычки хозяина и всегда держал под рукой необходимые предметы для всякой надобности, которые находятся в этой комнате. Побрить хозяина, подать фруктовой воды, до которой Пушкин был охотник, пришить оторвавшуюся пуговицу, срочно погладить галстук. Камердинер считался первым лицом среди прислуги. В отличие от домашних слуг, не имеющих кроватей, он имел свою комнату с диваном, на который мог прилечь при удобном случае.&#xa;&#xa;     С юных лет Пушкин находился на попечении у своего преданного дядьки и камердинера - болдинского дворового человека Никиты Козлова. Он практически всегда находился рядом с барином, сопровождал его в первой ссылке, и, скорее всего, был с ним и в первый приезд в Болдино.  По мнению современников Александра Сергеевича, Никита - человек выдающийся среди дворни Пушкиных. Он даже не чужд был поэтическому искусству и состряпал однажды из народных сказок нечто вроде баллады о Соловье-разбойнике.&#xa;&#xa;     Дядька беззаветно был предан Пушкину и единственный из дворни сопровождал тело умершего поэта к месту его упокоения." skinid="ht_info" tilt="6.84" target="" id="Point09"/>
+      <hotspot url="images/val_ann.jpg" title="" pan="-47.06" description="" skinid="ht_image" tilt="0.94" target="" id="Point10"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node7">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="63.5">
-      <start projection="4" pan="7.94128" tilt="-6.16029" fov="107.73"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="7.94128" tilt="-6.16029" fov="107.73" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002819" nodeid="node7" description="" comment="" datetime="03.04.2025 10:51" tags="" longitude="45.308747" source="" author="" copyright="" info="" heading="63.5" title="Буфетная" altitude="191.11"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="44.2376" pan="-70.47" skinid="ht_node" tilt="-14.95" target="" id="to_house_valet" url="{node9}" title="Камердинерская"/>
-      <hotspot description="" distance="5.25101" pan="-257.97" skinid="ht_node" tilt="-14.62" target="" id="to_house_1830" url="{node15}" title="1830 года"/>
-      <hotspot url="images/Буфетная_тумба.jpg" description="" pan="-228.65" skinid="ht_image" tilt="-4.18" target="" title="" id="Point01"/>
-      <hotspot url="images/Буфетная_картина3.jpg" description="" pan="-231.42" skinid="ht_image" tilt="20.07" target="" title="" id="Point02"/>
-      <hotspot url="images/Буфетная_самовар.jpg" description="" pan="-305.21" skinid="ht_image" tilt="2.63" target="" title="" id="Point03"/>
-      <hotspot url="images/Буфетная_тумбаЛево.jpg" description="" pan="-296.81" skinid="ht_image" tilt="24.3" target="" title="" id="Point04"/>
-      <hotspot url="images/bufet_kamod.jpg" description="" pan="-325.24" skinid="ht_image" tilt="10.71" target="" title="" id="Point05"/>
-      <hotspot url="images/Буфетная_сундучок.jpg" description="" pan="-338.99" skinid="ht_image" tilt="-10.3" target="" title="" id="Point06"/>
-      <hotspot url="images/Буфетная_картина2.jpg" description="" pan="-340.4" skinid="ht_image" tilt="14.81" target="" title="" id="Point07"/>
-      <hotspot url="images/Буфетная_стол1.jpg" description="" pan="-0.28" skinid="ht_image" tilt="0.28" target="" title="" id="Point08"/>
-      <hotspot url="images/Буфетная_стол2.jpg" description="" pan="-358.54" skinid="ht_image" tilt="-6.46" target="" title="" id="Point09"/>
-      <hotspot url="images/Буфетная_полкаПраво.jpg" description="" pan="-29.39" skinid="ht_image" tilt="20.85" target="" title="" id="Point10"/>
-      <hotspot url="images/Буфетная_картина1.jpg" description="" pan="-3.64" skinid="ht_image" tilt="15.28" target="" title="" id="Point11"/>
-      <hotspot url="images/Буфетная_диванчик.jpg" description="" pan="-140.41" skinid="ht_image" tilt="-8.96" target="" title="" id="Point12"/>
-      <hotspot url="" description="     Время уносит в прошлое не только предметы быта, но и некоторые помещения из наших жилищ. В господских домах непременно имелась небольшая комната, скрытая от глаз гостей - буфетная. В ней хранили посуду, столовые приборы, скатерти, салфетки, полотенца. При этом столовое белье обязательно должно быть с жесткими складочками. Для этого в буфетной имелись утюги и гладильные прессы.&#xa;&#xa;     В буфетную доставляли готовые блюда из кухни и сюда же уносили грязную посуду со столов во время трапезы.&#xa;&#xa;     Барская кухня в болдинской усадьбе находилась в отдельно стоящем здании, чтобы по всему дому не витали аппетитные запахи  готовящейся пищи. Из кухни через черный вход господского дома приготовленные блюда приносили в буфетную в кастрюлях, горшках, на противнях. Здесь разливались супы в супницы, раскладывалось жаркое на блюда, и все это переносили на сервированный в зальце стол.&#xa;&#xa;     Александр Сергеевич не был привередлив в еде. Зачастую изысканным блюдам он предпочитал простые:  двойные щи, пироги, каши, печеную картошку. Из напитков предпочитал варенец, чай, холодный кофе, клюквенный морс, брусничную воду и лимонад. Но он по достоинству мог оценить и котлеты Пожарские, и блюда Яра: трюфли, яйца Пашот, сладкий суп из малины и ревеня." pan="-222.54" skinid="ht_info" tilt="8.96" target="" title="Аннотация" id="Point13"/>
-      <hotspot url="images/Аннотация_буфетная.jpg" description="" pan="-218.52" skinid="ht_image" tilt="0.78" target="" title="" id="Point14"/>
+    <userdata tags="" comment="" title="Буфетная" info="" heading="63.5" description="ГОСПОДСКИЙ ДОМ" nodeid="node7" copyright="" customnodeid="" datetime="03.04.2025 10:51" altitude="191.11" latitude="55.002819" source="" longitude="45.308747" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="44.2376" title="Камердинерская" pan="-70.47" description="" tilt="-14.95" target="" url="{node9}" skinid="ht_node" id="to_house_valet"/>
+      <hotspot distance="5.25101" title="1830 года" pan="-257.97" description="" tilt="-14.62" target="" url="{node15}" skinid="ht_node" id="to_house_1830"/>
+      <hotspot url="images/buf_tumba.jpg" title="" pan="-228.65" description="" skinid="ht_image" tilt="-4.02" target="" id="Point01"/>
+      <hotspot url="images/buf_pic3.jpg" title="" pan="-231.42" description="" skinid="ht_image" tilt="20.07" target="" id="Point02"/>
+      <hotspot url="images/buf_samovar.jpg" title="" pan="-305.21" description="" skinid="ht_image" tilt="2.63" target="" id="Point03"/>
+      <hotspot url="images/buf_tumba_left.jpg" title="" pan="-296.81" description="" skinid="ht_image" tilt="24.3" target="" id="Point04"/>
+      <hotspot url="images/buf_kamod.jpg" title="" pan="-325.24" description="" skinid="ht_image" tilt="10.71" target="" id="Point05"/>
+      <hotspot url="images/buf_sunduk.jpg" title="" pan="-338.99" description="" skinid="ht_image" tilt="-10.3" target="" id="Point06"/>
+      <hotspot url="images/buf_pic2.jpg" title="" pan="-340.4" description="" skinid="ht_image" tilt="14.81" target="" id="Point07"/>
+      <hotspot url="images/buf_table1.jpg" title="" pan="-358.52" description="" skinid="ht_image" tilt="0.55" target="" id="Point08"/>
+      <hotspot url="images/buf_table2.jpg" title="" pan="-354.36" description="" skinid="ht_image" tilt="-6.43" target="" id="Point09"/>
+      <hotspot url="images/buf_shelves_left.jpg" title="" pan="-29.39" description="" skinid="ht_image" tilt="20.85" target="" id="Point10"/>
+      <hotspot url="images/buf_pic1.jpg" title="" pan="-3.64" description="" skinid="ht_image" tilt="15.28" target="" id="Point11"/>
+      <hotspot url="images/buf_sofa.jpg" title="" pan="-140.41" description="" skinid="ht_image" tilt="-8.96" target="" id="Point12"/>
+      <hotspot url="" title="Аннотация" pan="-222.54" description="     Время уносит в прошлое не только предметы быта, но и некоторые помещения из наших жилищ. В господских домах непременно имелась небольшая комната, скрытая от глаз гостей - буфетная. В ней хранили посуду, столовые приборы, скатерти, салфетки, полотенца. При этом столовое белье обязательно должно быть с жесткими складочками. Для этого в буфетной имелись утюги и гладильные прессы.&#xa;&#xa;     В буфетную доставляли готовые блюда из кухни и сюда же уносили грязную посуду со столов во время трапезы.&#xa;&#xa;     Барская кухня в болдинской усадьбе находилась в отдельно стоящем здании, чтобы по всему дому не витали аппетитные запахи  готовящейся пищи. Из кухни через черный вход господского дома приготовленные блюда приносили в буфетную в кастрюлях, горшках, на противнях. Здесь разливались супы в супницы, раскладывалось жаркое на блюда, и все это переносили на сервированный в зальце стол.&#xa;&#xa;     Александр Сергеевич не был привередлив в еде. Зачастую изысканным блюдам он предпочитал простые:  двойные щи, пироги, каши, печеную картошку. Из напитков предпочитал варенец, чай, холодный кофе, клюквенный морс, брусничную воду и лимонад. Но он по достоинству мог оценить и котлеты Пожарские, и блюда Яра: трюфли, яйца Пашот, сладкий суп из малины и ревеня." skinid="ht_info" tilt="8.96" target="" id="Point13"/>
+      <hotspot url="images/buf_ann.jpg" title="" pan="-218.52" description="" skinid="ht_image" tilt="0.78" target="" id="Point14"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node15">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="65.7">
-      <start projection="4" pan="7.79315" tilt="-11.4352" fov="107.73"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="7.79315" tilt="-11.4352" fov="107.73" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002772" nodeid="node15" description="" comment="" datetime="03.04.2025 10:52" tags="" longitude="45.308739" source="" author="" copyright="" info="" heading="65.7" title="1830 года" altitude="196.70"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="5.25101" pan="-80.22" skinid="ht_node" tilt="-17.17" target="" id="to_house_buffet" url="{node7}" title="Буфетная"/>
-      <hotspot description="" distance="17.1201" pan="-262.38" skinid="ht_node" tilt="-15.53" target="" id="to_house_1833" url="{node17}" title="1833 год"/>
-      <hotspot url="images/1830_фото.jpg" description="" pan="-353.2" skinid="ht_image" tilt="17.42" target="" title="" id="Point01"/>
-      <hotspot url="images/1830_стол.jpg" description="" pan="-353.17" skinid="ht_image" tilt="-5.09" target="" title="" id="Point02"/>
-      <hotspot url="images/1830_часы.jpg" description="" pan="-13.35" skinid="ht_image" tilt="11.47" target="" title="" id="Point03"/>
-      <hotspot url="images/1830_лево2.jpg" description="" pan="-330.78" skinid="ht_image" tilt="20.28" target="" title="" id="Point04"/>
-      <hotspot url="images/1830_лево1.jpg" description="" pan="-324.52" skinid="ht_image" tilt="20.87" target="" title="" id="Point05"/>
-      <hotspot url="images/1830_письма1.jpg" description="" pan="-304.32" skinid="ht_image" tilt="0.8" target="" title="" id="Point06"/>
-      <hotspot url="images/1830_письма2.jpg" description="" pan="-310.06" skinid="ht_image" tilt="-5.75" target="" title="" id="Point07"/>
-      <hotspot url="images/1830_письма3.jpg" description="" pan="-313.8" skinid="ht_image" tilt="0.7" target="" title="" id="Point08"/>
-      <hotspot url="images/1830_письма4.jpg" description="" pan="-318.8" skinid="ht_image" tilt="-4.55" target="" title="" id="Point09"/>
-      <hotspot url="images/1830_письма5.jpg" description="" pan="-321.12" skinid="ht_image" tilt="0.94" target="" title="" id="Point10"/>
-      <hotspot url="images/1830_письма1_2.jpg" description="" pan="-19.99" skinid="ht_image" tilt="0.72" target="" title="" id="Point11"/>
-      <hotspot url="images/1830_письма2_2.jpg" description="" pan="-21.76" skinid="ht_image" tilt="-3.17" target="" title="" id="Point12"/>
-      <hotspot url="images/1830_письма3_3.jpg" description="" pan="-25.45" skinid="ht_image" tilt="0.91" target="" title="" id="Point13"/>
-      <hotspot url="images/1830_письма4_4.jpg" description="" pan="-27.39" skinid="ht_image" tilt="-3.76" target="" title="" id="Point14"/>
-      <hotspot url="images/1830_письма5_5.jpg" description="" pan="-32.04" skinid="ht_image" tilt="0.28" target="" title="" id="Point15"/>
-      <hotspot url="" description="     Для Пушкина время в ту осень словно текло по иным законам – как будто целые годы спрессовались в три месяца, в течение которых было создано более 50 произведений. И все это шедевры русской и мировой литературы.&#xa;&#xa;     В витрине – рукописи «Евгения Онегина». Последние две главы романа поэт завершал в Болдинскую осень 1830 года. На отдельном листе он, подводя итоги семилетней работы над романом, составил хронологический перечень глав с пометами, где и когда создавалась каждая из них. Кроме девяти глав, одна из которых при издании была вынесена в приложение, существовали еще написанные строфы десятой главы. Однако сохранилась только часть зашифрованного текста.  Рукопись главы была сожжена поэтом в Болдине 19 октября 1830 года.&#xa;&#xa;     Помету об этом Пушкин оставил на полях рукописи повести «Метель».   &#xa;На столе карельской березы – рукописи произведений, созданных в этот плодотворнейший для Пушкина период. Здесь можно увидеть, как выглядят беловики «Повестей Белкина», «Маленьких трагедий», «Домика в Коломне». Черновиков той поры почти не сохранилось. Но и в переписанных набело листах появлялись поправки, и иногда они становились похожи на черновики.  Многочисленные  рисунки делают рукописи еще более выразительными.&#xa;&#xa;     Над столом – портрет А.С. Пушкина (В. Тропинин, 1827 г. Холст, масло. Копия).&#xa;&#xa;     В этой же комнате на ленте писем – тексты болдинского эпистолярия Пушкина 1830 года." pan="-234.25" skinid="ht_info" tilt="6.62" target="" title="Аннотация" id="Point16"/>
-      <hotspot url="images/Аннотация_1830.jpg" description="" pan="-230.18" skinid="ht_image" tilt="-0.02" target="" title="" id="Point17"/>
+    <userdata tags="" comment="" title="1830 года" info="" heading="65.7" description="ГОСПОДСКИЙ ДОМ" nodeid="node15" copyright="" customnodeid="" datetime="03.04.2025 10:52" altitude="196.70" latitude="55.002772" source="" longitude="45.308739" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="5.25101" title="Буфетная" pan="-80.22" description="" tilt="-17.17" target="" url="{node7}" skinid="ht_node" id="to_house_buffet"/>
+      <hotspot distance="17.1201" title="1833 год" pan="-265.83" description="" tilt="-15.34" target="" url="{node17}" skinid="ht_node" id="to_house_1833"/>
+      <hotspot url="images/1830_pic.jpg" title="" pan="-353.2" description="" skinid="ht_image" tilt="17.42" target="" id="Point01"/>
+      <hotspot url="images/1830_table.jpg" title="" pan="-353.17" description="" skinid="ht_image" tilt="-5.09" target="" id="Point02"/>
+      <hotspot url="images/1830_clock.jpg" title="" pan="-13.35" description="" skinid="ht_image" tilt="11.47" target="" id="Point03"/>
+      <hotspot url="images/1830_left2.jpg" title="" pan="-330.78" description="" skinid="ht_image" tilt="20.28" target="" id="Point04"/>
+      <hotspot url="images/1830_left1.jpg" title="" pan="-324.52" description="" skinid="ht_image" tilt="20.87" target="" id="Point05"/>
+      <hotspot url="images/1830_let1.jpg" title="" pan="-304.34" description="" skinid="ht_image" tilt="0.91" target="" id="Point06"/>
+      <hotspot url="images/1830_let2.jpg" title="" pan="-310.06" description="" skinid="ht_image" tilt="-5.75" target="" id="Point07"/>
+      <hotspot url="images/1830_let3.jpg" title="" pan="-313.8" description="" skinid="ht_image" tilt="0.7" target="" id="Point08"/>
+      <hotspot url="images/1830_let4.jpg" title="" pan="-318.8" description="" skinid="ht_image" tilt="-4.55" target="" id="Point09"/>
+      <hotspot url="images/1830_let5.jpg" title="" pan="-321.12" description="" skinid="ht_image" tilt="0.94" target="" id="Point10"/>
+      <hotspot url="images/1830_let1_2.jpg" title="" pan="-19.99" description="" skinid="ht_image" tilt="0.72" target="" id="Point11"/>
+      <hotspot url="images/1830_let2_2.jpg" title="" pan="-21.76" description="" skinid="ht_image" tilt="-3.17" target="" id="Point12"/>
+      <hotspot url="images/1830_let3_3.jpg" title="" pan="-25.45" description="" skinid="ht_image" tilt="0.91" target="" id="Point13"/>
+      <hotspot url="images/1830_let4_4.jpg" title="" pan="-27.39" description="" skinid="ht_image" tilt="-3.76" target="" id="Point14"/>
+      <hotspot url="images/1830_let5_5.jpg" title="" pan="-32.04" description="" skinid="ht_image" tilt="0.28" target="" id="Point15"/>
+      <hotspot url="" title="Аннотация" pan="-234.25" description="     Для Пушкина время в ту осень словно текло по иным законам – как будто целые годы спрессовались в три месяца, в течение которых было создано более 50 произведений. И все это шедевры русской и мировой литературы.&#xa;&#xa;     В витрине – рукописи «Евгения Онегина». Последние две главы романа поэт завершал в Болдинскую осень 1830 года. На отдельном листе он, подводя итоги семилетней работы над романом, составил хронологический перечень глав с пометами, где и когда создавалась каждая из них. Кроме девяти глав, одна из которых при издании была вынесена в приложение, существовали еще написанные строфы десятой главы. Однако сохранилась только часть зашифрованного текста.  Рукопись главы была сожжена поэтом в Болдине 19 октября 1830 года.&#xa;&#xa;     Помету об этом Пушкин оставил на полях рукописи повести «Метель».   &#xa;На столе карельской березы – рукописи произведений, созданных в этот плодотворнейший для Пушкина период. Здесь можно увидеть, как выглядят беловики «Повестей Белкина», «Маленьких трагедий», «Домика в Коломне». Черновиков той поры почти не сохранилось. Но и в переписанных набело листах появлялись поправки, и иногда они становились похожи на черновики.  Многочисленные  рисунки делают рукописи еще более выразительными.&#xa;&#xa;     Над столом – портрет А.С. Пушкина (В. Тропинин, 1827 г. Холст, масло. Копия).&#xa;&#xa;     В этой же комнате на ленте писем – тексты болдинского эпистолярия Пушкина 1830 года." skinid="ht_info" tilt="6.62" target="" id="Point16"/>
+      <hotspot url="images/1830_ann.jpg" title="" pan="-230.18" description="" skinid="ht_image" tilt="-0.02" target="" id="Point17"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node17">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="75">
-      <start projection="4" pan="127.336" tilt="-11.1059" fov="126.651"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="127.336" tilt="-11.1059" fov="126.651" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002925" nodeid="node17" description="" comment="" datetime="03.04.2025 10:56" tags="" longitude="45.308769" source="" author="" copyright="" info="" heading="75" title="1833 год" altitude="196.29"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="17.1201" pan="-60.31" skinid="ht_node" tilt="-17.71" target="" id="to_house_1830" url="{node15}" title="1830 года"/>
-      <hotspot description="" distance="8.24698" pan="-148.36" skinid="ht_node" tilt="-16.98" target="" id="to_house_afterPushkin" url="{node12}" title="После Пушкина"/>
-      <hotspot url="" description="" pan="-354.68" skinid="ht_node" tilt="-0.39" target="" title="На улицу" id="to_street"/>
-      <hotspot url="images/1833_витрина.jpg" description="" pan="-299.38" skinid="ht_image" tilt="27.96" target="" title="" id="Point01"/>
-      <hotspot url="images/1833_статуя.jpg" description="" pan="-231.32" skinid="ht_image" tilt="10.11" target="" title="" id="Point02"/>
-      <hotspot url="images/1833_витрина_книга.jpg" description="" pan="-281.56" skinid="ht_image" tilt="12.25" target="" title="" id="Point03"/>
-      <hotspot url="images/1833_витрина_под_книгой.jpg" description="" pan="-282.35" skinid="ht_image" tilt="4.88" target="" title="" id="Point04"/>
-      <hotspot url="images/1833_витрина_рыжее.jpg" description="" pan="-288.98" skinid="ht_image" tilt="4.57" target="" title="" id="Point05"/>
-      <hotspot url="images/1833_витрина_письмо.jpg" description="" pan="-287.45" skinid="ht_image" tilt="11.17" target="" title="" id="Point06"/>
-      <hotspot url="images/1833_витрина_узник.jpg" description="" pan="-295.66" skinid="ht_image" tilt="6.57" target="" title="" id="Point07"/>
-      <hotspot url="images/1833_витрина_конверт.jpg" description="" pan="-295.38" skinid="ht_image" tilt="-1.21" target="" title="" id="Point08"/>
-      <hotspot url="images/1833_витрина_принцесса.jpg" description="" pan="-302.97" skinid="ht_image" tilt="9.67" target="" title="" id="Point09"/>
-      <hotspot url="images/1833_витрина_пушкин.jpg" description="" pan="-307.73" skinid="ht_image" tilt="9.99" target="" title="" id="Point10"/>
-      <hotspot url="images/1833_витрина_записи_ручка.jpg" description="" pan="-328.59" skinid="ht_image" tilt="10.79" target="" title="" id="Point11"/>
-      <hotspot url="images/1833_витрина_белая_книга.jpg" description="" pan="-312.64" skinid="ht_image" tilt="10.29" target="" title="" id="Point12"/>
-      <hotspot url="images/1833_витринаразворот_книги.jpg" description="" pan="-318.8" skinid="ht_image" tilt="10.56" target="" title="" id="Point13"/>
-      <hotspot url="" description="     В этот раз поэт посетил Болдино, возвращаясь из путешествия по пугачевским местам Поволжья и Урала. Поездка была предпринята в связи с работой над «Историей Пугачева».&#xa;&#xa;     В застекленной витрине слева - почтовый справочник 1832 года,  копии путевой записной книжки Пушкина и рисунка из его альбома 1833-1835 гг.&#xa;&#xa;     Справа – портрет Н.Н. Пушкиной, жены поэта (А.Брюллов. Акварель, 1831-32 гг. Копия). Рядом – копии автопортрета А.С.Пушкина (1829 г.) и письма поэта жене.&#xa;&#xa;     В мультимедийной витрине - карта-схема путешествия А.С.Пушкина в 1833 году, гравюры и литографии с видами Петербурга 1830-х годов. &#xa; Начав исторический труд о Петре I, Пушкин так и не завершил его. Но размышления о личности и правлении царя-преобразователя подвигли на создание лучшей из пушкинских поэм – «Медный всадник».&#xa;&#xa;     В мультимедийной витрине - тетради с черновиками и сшитая тетрадь беловика этой поэмы.&#xa;&#xa;     Там же находятся рукописи нескольких произведений осени 1833 года. Это повесть «Пиковая дама», поэма «Анджело», «Сказка о мертвой царевне и о семи богатырях», «Сказка о рыбаке и рыбке», стихотворение «Осень», «История Пугачева».&#xa;&#xa;     Поэт и во второй раз пережил в Болдине пору невероятного творческого подъема." pan="-189.21" skinid="ht_info" tilt="8.89" target="" title="Аннотация" id="Point14"/>
-      <hotspot url="images/Аннотация_1833.jpg" description="" pan="-180.65" skinid="ht_image" tilt="0.06" target="" title="" id="Point15"/>
+    <userdata tags="" comment="" title="1833 год" info="" heading="75" description="ГОСПОДСКИЙ ДОМ" nodeid="node17" copyright="" customnodeid="" datetime="03.04.2025 10:56" altitude="196.29" latitude="55.002925" source="" longitude="45.308769" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="17.1201" title="1830 года" pan="-60.31" description="" tilt="-17.71" target="" url="{node15}" skinid="ht_node" id="to_house_1830"/>
+      <hotspot distance="8.24698" title="После Пушкина" pan="-148.36" description="" tilt="-16.98" target="" url="{node12}" skinid="ht_node" id="to_house_afterPushkin"/>
+      <hotspot url="" title="На улицу" pan="-354.68" description="" skinid="ht_node" tilt="-0.39" target="" id="to_street"/>
+      <hotspot url="images/1833_vitrina.jpg" title="" pan="-299.38" description="" skinid="ht_image" tilt="27.96" target="" id="Point01"/>
+      <hotspot url="images/1833_statuya.jpg" title="" pan="-231.32" description="" skinid="ht_image" tilt="10.11" target="" id="Point02"/>
+      <hotspot url="images/1833_book.jpg" title="" pan="-281.56" description="" skinid="ht_image" tilt="12.25" target="" id="Point03"/>
+      <hotspot url="images/1833_under_book.jpg" title="" pan="-282.35" description="" skinid="ht_image" tilt="4.88" target="" id="Point04"/>
+      <hotspot url="images/1833_orange.jpg" title="" pan="-288.98" description="" skinid="ht_image" tilt="4.57" target="" id="Point05"/>
+      <hotspot url="images/1833_let.jpg" title="" pan="-287.45" description="" skinid="ht_image" tilt="11.17" target="" id="Point06"/>
+      <hotspot url="images/1833_uznik.jpg" title="" pan="-295.66" description="" skinid="ht_image" tilt="6.57" target="" id="Point07"/>
+      <hotspot url="images/1833_konvert.jpg" title="" pan="-295.38" description="" skinid="ht_image" tilt="-1.21" target="" id="Point08"/>
+      <hotspot url="images/1833_princ.jpg" title="" pan="-302.97" description="" skinid="ht_image" tilt="9.67" target="" id="Point09"/>
+      <hotspot url="images/1833_push.jpg" title="" pan="-307.73" description="" skinid="ht_image" tilt="9.99" target="" id="Point10"/>
+      <hotspot url="images/1833_pen.jpg" title="" pan="-328.59" description="" skinid="ht_image" tilt="10.79" target="" id="Point11"/>
+      <hotspot url="images/1833_white_book.jpg" title="" pan="-312.64" description="" skinid="ht_image" tilt="10.29" target="" id="Point12"/>
+      <hotspot url="images/1833_razvorot_book.jpg" title="" pan="-318.8" description="" skinid="ht_image" tilt="10.71" target="" id="Point13"/>
+      <hotspot url="" title="Аннотация" pan="-189.21" description="     В этот раз поэт посетил Болдино, возвращаясь из путешествия по пугачевским местам Поволжья и Урала. Поездка была предпринята в связи с работой над «Историей Пугачева».&#xa;&#xa;     В застекленной витрине слева - почтовый справочник 1832 года,  копии путевой записной книжки Пушкина и рисунка из его альбома 1833-1835 гг.&#xa;&#xa;     Справа – портрет Н.Н. Пушкиной, жены поэта (А.Брюллов. Акварель, 1831-32 гг. Копия). Рядом – копии автопортрета А.С.Пушкина (1829 г.) и письма поэта жене.&#xa;&#xa;     В мультимедийной витрине - карта-схема путешествия А.С.Пушкина в 1833 году, гравюры и литографии с видами Петербурга 1830-х годов. &#xa; Начав исторический труд о Петре I, Пушкин так и не завершил его. Но размышления о личности и правлении царя-преобразователя подвигли на создание лучшей из пушкинских поэм – «Медный всадник».&#xa;&#xa;     В мультимедийной витрине - тетради с черновиками и сшитая тетрадь беловика этой поэмы.&#xa;&#xa;     Там же находятся рукописи нескольких произведений осени 1833 года. Это повесть «Пиковая дама», поэма «Анджело», «Сказка о мертвой царевне и о семи богатырях», «Сказка о рыбаке и рыбке», стихотворение «Осень», «История Пугачева».&#xa;&#xa;     Поэт и во второй раз пережил в Болдине пору невероятного творческого подъема." skinid="ht_info" tilt="8.89" target="" id="Point14"/>
+      <hotspot url="images/1833_ann.jpg" title="" pan="-180.65" description="" skinid="ht_image" tilt="0.06" target="" id="Point15"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node12">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="354.4">
-      <start projection="4" pan="-0.238089" tilt="-19.2749" fov="107.73"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="-0.238089" tilt="-19.2749" fov="107.73" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002906" nodeid="node12" description="" comment="" datetime="03.04.2025 10:57" tags="" longitude="45.308894" source="" author="" copyright="" info="" heading="354.4" title="После Пушкина" altitude="196.27"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="8.24698" pan="-91.65" skinid="ht_node" tilt="-17.19" target="" id="to_house_1833" url="{node17}" title="1833 год"/>
-      <hotspot description="" distance="11.1312" pan="-272.73" skinid="ht_node" tilt="-13.29" target="" id="to_house_sale" url="{node13}" title="Продажа усадьбы государству"/>
-      <hotspot url="images/После_стол.jpg" description="" pan="-357.74" skinid="ht_image" tilt="-10.73" target="" title="" id="Point01"/>
-      <hotspot url="images/После_фото.jpg" description="" pan="-346.42" skinid="ht_image" tilt="-5.15" target="" title="" id="Point02"/>
-      <hotspot url="images/После_запись.jpg" description="" pan="-6.35" skinid="ht_image" tilt="-13.62" target="" title="" id="Point03"/>
-      <hotspot url="images/После_картина4.jpg" description="" pan="-38.44" skinid="ht_image" tilt="27.03" target="" title="" id="Point04"/>
-      <hotspot url="images/После_картина1.jpg" description="" pan="-308.43" skinid="ht_image" tilt="14.21" target="" title="" id="Point05"/>
-      <hotspot url="images/После_картина2.jpg" description="" pan="-320.81" skinid="ht_image" tilt="14.26" target="" title="" id="Point06"/>
-      <hotspot url="images/После_картина3.jpg" description="" pan="-327.3" skinid="ht_image" tilt="15.57" target="" title="" id="Point07"/>
-      <hotspot url="" description="     На стене справа – планы Болдина конца XIX века.&#xa;&#xa;     До 1848 года  болдинское имение оставалось во владении отца поэта – С. Л. Пушкина. После его смерти оно было поделено между наследниками.&#xa;&#xa;     Владельцем Болдина стал Лев Сергеевич Пушкин, брат поэта.&#xa;&#xa;     Другая часть имения – сельцо Кистенево и деревня Львовка – отошла детям Александра Сергеевича. По причине их несовершеннолетия была учреждена опека над имением. Вопросы, касающиеся наследства детей, решались с участием их матери, Натальи Николаевны.&#xa;&#xa;     В первой комнате выставки на столике – портрет Н. Н. Пушкиной (В. Гау, 1949 г. Акварель, копия). Рядом – письмо вдовы поэта болдинскому управляющему Пеньковскому (1837 г., копия), в котором она просит  переслать ей из Болдина оставшиеся бумаги и вещи мужа.&#xa;&#xa;     Слева – портреты детей поэта – Марии, Григория и Александра (Т. Райт, 1844 г.). (Детского портрета младшей дочери Пушкина, Натальи, не сохранилось).&#xa;&#xa;     Позднее, по договоренности между детьми поэта, достигшими совершеннолетия, фактическим владельцем Кистенева и Львовки стал старший из братьев – Александр Александрович." pan="-239.38" skinid="ht_info" tilt="9.32" target="" title="Аннотация" id="Point08"/>
-      <hotspot url="images/Аннотация_после.jpg" description="" pan="-234.75" skinid="ht_image" tilt="1.23" target="" title="" id="Point09"/>
+    <userdata tags="" comment="" title="После Пушкина" info="" heading="354.4" description="ГОСПОДСКИЙ ДОМ" nodeid="node12" copyright="" customnodeid="" datetime="03.04.2025 10:57" altitude="196.27" latitude="55.002906" source="" longitude="45.308894" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="8.24698" title="1833 год" pan="-91.65" description="" tilt="-17.19" target="" url="{node17}" skinid="ht_node" id="to_house_1833"/>
+      <hotspot distance="11.1312" title="Продажа усадьбы государству" pan="-272.73" description="" tilt="-13.29" target="" url="{node13}" skinid="ht_node" id="to_house_sale"/>
+      <hotspot url="images/after_table.jpg" title="" pan="-357.74" description="" skinid="ht_image" tilt="-10.73" target="" id="Point01"/>
+      <hotspot url="images/after_pic.jpg" title="" pan="-346.41" description="" skinid="ht_image" tilt="-4.98" target="" id="Point02"/>
+      <hotspot url="images/after_zapic.jpg" title="" pan="-6.35" description="" skinid="ht_image" tilt="-13.62" target="" id="Point03"/>
+      <hotspot url="images/after_pic4.jpg" title="" pan="-38.44" description="" skinid="ht_image" tilt="27.03" target="" id="Point04"/>
+      <hotspot url="images/after_pic1.jpg" title="" pan="-308.43" description="" skinid="ht_image" tilt="14.21" target="" id="Point05"/>
+      <hotspot url="images/after_pic2.jpg" title="" pan="-320.82" description="" skinid="ht_image" tilt="14.4" target="" id="Point06"/>
+      <hotspot url="images/after_pic3.jpg" title="" pan="-327.3" description="" skinid="ht_image" tilt="15.57" target="" id="Point07"/>
+      <hotspot url="" title="Аннотация" pan="-239.38" description="     На стене справа – планы Болдина конца XIX века.&#xa;&#xa;     До 1848 года  болдинское имение оставалось во владении отца поэта – С. Л. Пушкина. После его смерти оно было поделено между наследниками.&#xa;&#xa;     Владельцем Болдина стал Лев Сергеевич Пушкин, брат поэта.&#xa;&#xa;     Другая часть имения – сельцо Кистенево и деревня Львовка – отошла детям Александра Сергеевича. По причине их несовершеннолетия была учреждена опека над имением. Вопросы, касающиеся наследства детей, решались с участием их матери, Натальи Николаевны.&#xa;&#xa;     В первой комнате выставки на столике – портрет Н. Н. Пушкиной (В. Гау, 1949 г. Акварель, копия). Рядом – письмо вдовы поэта болдинскому управляющему Пеньковскому (1837 г., копия), в котором она просит  переслать ей из Болдина оставшиеся бумаги и вещи мужа.&#xa;&#xa;     Слева – портреты детей поэта – Марии, Григория и Александра (Т. Райт, 1844 г.). (Детского портрета младшей дочери Пушкина, Натальи, не сохранилось).&#xa;&#xa;     Позднее, по договоренности между детьми поэта, достигшими совершеннолетия, фактическим владельцем Кистенева и Львовки стал старший из братьев – Александр Александрович." skinid="ht_info" tilt="9.32" target="" id="Point08"/>
+      <hotspot url="images/after_ann.jpg" title="" pan="-234.75" description="" skinid="ht_image" tilt="1.23" target="" id="Point09"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node13">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="24.9">
-      <start projection="4" pan="24.1159" tilt="-9.44481" fov="117.148"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="24.1159" tilt="-9.44481" fov="117.148" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.003006" nodeid="node13" description="" comment="" datetime="03.04.2025 10:58" tags="" longitude="45.308886" source="" author="" copyright="" info="" heading="24.9" title="Продажа усадьбы гос-ву" altitude="197.16"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="11.1312" pan="-58.68" skinid="ht_node" tilt="-15.52" target="" id="to_house_afterPushkin" url="{node12}" title="После Пушкина"/>
-      <hotspot description="" distance="22.0318" pan="-239.96" skinid="ht_node" tilt="-15.24" target="" id="to_house_pic" url="{node10}" title="Картины"/>
-      <hotspot url="images/Продажа_картина1.jpg" description="" pan="-262.78" skinid="ht_image" tilt="10.9" target="" title="" id="Point01"/>
-      <hotspot url="images/Продажа_интерактив.jpg" description="" pan="-291.35" skinid="ht_image" tilt="20.84" target="" title="" id="Point02"/>
-      <hotspot url="images/Продажа_на_столе.jpg" description="" pan="-5.53" skinid="ht_image" tilt="-15.81" target="" title="" id="Point03"/>
-      <hotspot url="images/Продажа_картина6.jpg" description="" pan="-1.61" skinid="ht_image" tilt="26.65" target="" title="" id="Point04"/>
-      <hotspot url="images/Продажа_картина5.jpg" description="" pan="-334.34" skinid="ht_image" tilt="22.46" target="" title="" id="Point05"/>
-      <hotspot url="images/Продажа_столик.jpg" description="" pan="-211.22" skinid="ht_image" tilt="-3.81" target="" title="" id="Point06"/>
-      <hotspot url="images/Продажа_тумба.jpg" description="" pan="-266.35" skinid="ht_image" tilt="-13.18" target="" title="" id="Point07"/>
-      <hotspot url="images/Продажа_на_тумбе.jpg" description="" pan="-267.73" skinid="ht_image" tilt="-7.55" target="" title="" id="Point08"/>
-      <hotspot url="images/Продажа_картина4.jpg" description="" pan="-83.92" skinid="ht_image" tilt="10.99" target="" title="" id="Point09"/>
-      <hotspot url="images/Продажа_картина3.jpg" description="" pan="-150.83" skinid="ht_image" tilt="28" target="" title="" id="Point10"/>
-      <hotspot url="images/Продажа_картина2.jpg" description="" pan="-214.92" skinid="ht_image" tilt="9.56" target="" title="" id="Point11"/>
-      <hotspot url="" description="     В 1849 году во владение отцовской половиной Болдина вступил брат Пушкина Лев Сергеевич.&#xa;&#xa;     (Другая половина, принадлежавшая ранее Василию Львовичу Пушкину, была продана с аукционных торгов за долги еще в 1835 г).&#xa;&#xa;     В связи с вводом во владение Лев Сергеевич приезжал сюда осенью 1849 года.&#xa;&#xa;     После его смерти, в 1853 году, в Болдино из Одессы, где ранее жила семья, переехала его вдова Елизавета Александровна Пушкина (урожденная Загряжская) с тремя детьми.&#xa;&#xa;     В 1866 году имение перешло во владение Анатолия Львовича Пушкина, сына Льва Сергеевича. Последним хозяином имения стал его сын, внучатый племянник поэта Лев Анатольевич  Пушкин.  В 1911 году у него была приобретена в собственность государства болдинская усадьба - как место, связанное с жизнью и творчеством великого русского поэта.&#xa;&#xa;     В этой комнате находится мебель болдинского дома, принадлежавшая последним владельцам: стол с фигурной столешницей, два стула,  круглый столик-консоль.&#xa;&#xa;     На столе - дело о продаже имения и список портретов из болдинского дома, приобретенных государством вместе с усадьбой Пушкиных. &#xa;На центральной стене – копии портретов, которые во втор. пол. 19 – нач. 20 вв. находились в этом доме:&#xa;&#xa;     - Семейство Загряжских. Неизв. худ 19 в, 1820-е гг. Холст, масло;&#xa;     - Е. А. Пушкина. (жена брата поэта, Л.С.Пушкина). Худ. Г. Яковлев, 1840-е гг. Холст, масло." pan="-133.84" skinid="ht_info" tilt="13.92" target="" title="Аннотация" id="Point12"/>
-      <hotspot url="images/Аннотация_продажа.jpg" description="" pan="-120.24" skinid="ht_image" tilt="-0.16" target="" title="" id="Point13"/>
+    <userdata tags="" comment="" title="Продажа усадьбы гос-ву" info="" heading="24.9" description="ГОСПОДСКИЙ ДОМ" nodeid="node13" copyright="" customnodeid="" datetime="03.04.2025 10:58" altitude="197.16" latitude="55.003006" source="" longitude="45.308886" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="11.1312" title="После Пушкина" pan="-58.68" description="" tilt="-15.52" target="" url="{node12}" skinid="ht_node" id="to_house_afterPushkin"/>
+      <hotspot distance="22.0318" title="Картины" pan="-239.96" description="" tilt="-15.24" target="" url="{node10}" skinid="ht_node" id="to_house_pic"/>
+      <hotspot url="images/sale_pic1.jpg" title="" pan="-262.78" description="" skinid="ht_image" tilt="10.9" target="" id="Point01"/>
+      <hotspot url="images/sale_interakt.jpg" title="" pan="-291.35" description="" skinid="ht_image" tilt="20.84" target="" id="Point02"/>
+      <hotspot url="images/sale_on_table.jpg" title="" pan="-5.53" description="" skinid="ht_image" tilt="-15.64" target="" id="Point03"/>
+      <hotspot url="images/sale_pic6.jpg" title="" pan="-1.61" description="" skinid="ht_image" tilt="26.65" target="" id="Point04"/>
+      <hotspot url="images/sale_pic5.jpg" title="" pan="-334.34" description="" skinid="ht_image" tilt="22.46" target="" id="Point05"/>
+      <hotspot url="images/sale_table.jpg" title="" pan="-211.68" description="" skinid="ht_image" tilt="-4.43" target="" id="Point06"/>
+      <hotspot url="images/sale_tumba.jpg" title="" pan="-266.35" description="" skinid="ht_image" tilt="-13.18" target="" id="Point07"/>
+      <hotspot url="images/sale_on_tumba.jpg" title="" pan="-267.73" description="" skinid="ht_image" tilt="-7.55" target="" id="Point08"/>
+      <hotspot url="images/sale_pic4.jpg" title="" pan="-83.92" description="" skinid="ht_image" tilt="10.99" target="" id="Point09"/>
+      <hotspot url="images/sale_pic3.jpg" title="" pan="-150.74" description="" skinid="ht_image" tilt="28.03" target="" id="Point10"/>
+      <hotspot url="images/sale_pic2.jpg" title="" pan="-214.92" description="" skinid="ht_image" tilt="9.56" target="" id="Point11"/>
+      <hotspot url="" title="Аннотация" pan="-133.84" description="     В 1849 году во владение отцовской половиной Болдина вступил брат Пушкина Лев Сергеевич.&#xa;&#xa;     (Другая половина, принадлежавшая ранее Василию Львовичу Пушкину, была продана с аукционных торгов за долги еще в 1835 г).&#xa;&#xa;     В связи с вводом во владение Лев Сергеевич приезжал сюда осенью 1849 года.&#xa;&#xa;     После его смерти, в 1853 году, в Болдино из Одессы, где ранее жила семья, переехала его вдова Елизавета Александровна Пушкина (урожденная Загряжская) с тремя детьми.&#xa;&#xa;     В 1866 году имение перешло во владение Анатолия Львовича Пушкина, сына Льва Сергеевича. Последним хозяином имения стал его сын, внучатый племянник поэта Лев Анатольевич  Пушкин.  В 1911 году у него была приобретена в собственность государства болдинская усадьба - как место, связанное с жизнью и творчеством великого русского поэта.&#xa;&#xa;     В этой комнате находится мебель болдинского дома, принадлежавшая последним владельцам: стол с фигурной столешницей, два стула,  круглый столик-консоль.&#xa;&#xa;     На столе - дело о продаже имения и список портретов из болдинского дома, приобретенных государством вместе с усадьбой Пушкиных. &#xa;На центральной стене – копии портретов, которые во втор. пол. 19 – нач. 20 вв. находились в этом доме:&#xa;&#xa;     - Семейство Загряжских. Неизв. худ 19 в, 1820-е гг. Холст, масло;&#xa;     - Е. А. Пушкина. (жена брата поэта, Л.С.Пушкина). Худ. Г. Яковлев, 1840-е гг. Холст, масло." skinid="ht_info" tilt="13.92" target="" id="Point12"/>
+      <hotspot url="images/sale_ann.jpg" title="" pan="-120.24" description="" skinid="ht_image" tilt="-0.16" target="" id="Point13"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <panorama id="node10">
-    <input levelbiashidpi="1.000" height="1680" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" width="1680">
-      <level predecode="0" height="1680" preload="0" width="1680"/>
-      <level predecode="0" height="840" preload="0" width="840"/>
-      <level predecode="1" height="420" preload="1" width="420"/>
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" height="1680" width="1680" leveltilesize="510" levelingroll="0">
+      <level preload="0" predecode="0" height="1680" width="1680"/>
+      <level preload="0" predecode="0" height="840" width="840"/>
+      <level preload="1" predecode="1" height="420" width="420"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="359.9">
-      <start projection="4" pan="96.0687" tilt="-17.8111" fov="126.651"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <start pan="96.0687" tilt="-17.8111" fov="126.651" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovstereographic="330" scaletofit="1" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+      <max fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="140"/>
     </view>
-    <userdata customnodeid="" latitude="55.002978" nodeid="node10" description="" comment="" datetime="03.04.2025 11:00" tags="" longitude="45.309228" source="" author="" copyright="" info="" heading="359.9" title="Картины" altitude="160.29"/>
-    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
-      <label width="180" borderalpha="1" textalpha="1" wordwrap="1" height="20" border="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" backgroundcolor="0xffffff" borderradius="1" background="1" textcolor="0x000000"/>
-      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0"/>
-      <hotspot description="" distance="22.0318" pan="-82.85" skinid="ht_node" tilt="-15.19" target="" id="to_house_sale" url="{node13}" title="Продажа усадьбы государству"/>
-      <hotspot url="" description="" pan="-341.5" skinid="ht_node" tilt="1.47" target="" title="На улицу" id="to_street"/>
-      <hotspot url="images/Картины1.jpg" description="" pan="-219.45" skinid="ht_image" tilt="-15.94" target="" title="" id="Point01"/>
-      <hotspot url="images/Картины2.jpg" description="" pan="-226.71" skinid="ht_image" tilt="-6.01" target="" title="" id="Point02"/>
-      <hotspot url="images/Картины3.jpg" description="" pan="-231.73" skinid="ht_image" tilt="1.64" target="" title="" id="Point03"/>
-      <hotspot url="images/Картины4.jpg" description="" pan="-244.01" skinid="ht_image" tilt="1.54" target="" title="" id="Point04"/>
-      <hotspot url="images/Картины5.jpg" description="" pan="-241.66" skinid="ht_image" tilt="-6.65" target="" title="" id="Point05"/>
-      <hotspot url="images/Картины6.jpg" description="" pan="-237.84" skinid="ht_image" tilt="-18.7" target="" title="" id="Point06"/>
-      <hotspot url="images/Картины7.jpg" description="" pan="-258.64" skinid="ht_image" tilt="-19.78" target="" title="" id="Point07"/>
-      <hotspot url="images/Картины8.jpg" description="" pan="-258.71" skinid="ht_image" tilt="-7.03" target="" title="" id="Point08"/>
-      <hotspot url="images/Картины9.jpg" description="" pan="-259.23" skinid="ht_image" tilt="1.89" target="" title="" id="Point09"/>
-      <hotspot url="images/Картины10.jpg" description="" pan="-274.75" skinid="ht_image" tilt="1.9" target="" title="" id="Point10"/>
-      <hotspot url="images/Картины11.jpg" description="" pan="-276.76" skinid="ht_image" tilt="-6.38" target="" title="" id="Point11"/>
-      <hotspot url="images/Картины12.jpg" description="" pan="-280.14" skinid="ht_image" tilt="-18.72" target="" title="" id="Point12"/>
-      <hotspot url="images/Картины13.jpg" description="" pan="-299.61" skinid="ht_image" tilt="-16.36" target="" title="" id="Point13"/>
-      <hotspot url="images/Картины14.jpg" description="" pan="-293.15" skinid="ht_image" tilt="-6.06" target="" title="" id="Point14"/>
-      <hotspot url="images/Картины18.jpg" description="" pan="-288.78" skinid="ht_image" tilt="1.99" target="" title="" id="Point15"/>
-      <hotspot url="images/Картины17.jpg" description="" pan="-300.95" skinid="ht_image" tilt="2.06" target="" title="" id="Point16"/>
-      <hotspot url="images/Картины16.jpg" description="" pan="-306.02" skinid="ht_image" tilt="-4.95" target="" title="" id="Point17"/>
-      <hotspot url="images/Картины15.jpg" description="" pan="-312.92" skinid="ht_image" tilt="-13.44" target="" title="" id="Point18"/>
-      <hotspot url="" description="     Сберечь усадьбу и дом Пушкиных до наших дней помогли болдинские крестьяне, которые собрались на общий сход в апреле 1918 года и постановили сохранить усадьбу в память о пребывании в ней  Александра Сергеевича.&#xa;&#xa;     В мультимедийной витрине - виды болдинской усадьбы конца XIX, XX, XXI вв. Фотографии сельских улиц и крестьян, принимавших участие в судьбоносном сходе. Текст  крестьянского приговора в записи болдинского старожила Ивана Васильевича Киреева.&#xa;&#xa;     Завершают экспозицию   господского дома Пушкиных три инсталляции, посвященные творчеству Александра Сергеевича 1830-1833 годов и поэме «Медный всадник»." pan="-129.96" skinid="ht_info" tilt="10.36" target="" title="Аннотация" id="Point19"/>
-      <hotspot url="images/Аннотация_картины.jpg" description="" pan="-121.33" skinid="ht_image" tilt="0.71" target="" title="" id="Point20"/>
+    <userdata tags="" comment="" title="Картины" info="" heading="359.9" description="ГОСПОДСКИЙ ДОМ" nodeid="node10" copyright="" customnodeid="" datetime="03.04.2025 11:00" altitude="160.29" latitude="55.002978" source="" longitude="45.309228" author=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label enabled="1" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" width="180"/>
+      <polystyle handcursor="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot distance="22.0318" title="Продажа усадьбы государству" pan="-82.85" description="" tilt="-15.19" target="" url="{node13}" skinid="ht_node" id="to_house_sale"/>
+      <hotspot url="" title="На улицу" pan="-341.5" description="" skinid="ht_node" tilt="1.47" target="" id="to_street"/>
+      <hotspot url="images/pic1.jpg" title="" pan="-219.45" description="" skinid="ht_image" tilt="-15.94" target="" id="Point01"/>
+      <hotspot url="images/pic2.jpg" title="" pan="-226.75" description="" skinid="ht_image" tilt="-5.89" target="" id="Point02"/>
+      <hotspot url="images/pic3.jpg" title="" pan="-231.76" description="" skinid="ht_image" tilt="1.75" target="" id="Point03"/>
+      <hotspot url="images/pic4.jpg" title="" pan="-244.01" description="" skinid="ht_image" tilt="1.54" target="" id="Point04"/>
+      <hotspot url="images/pic5.jpg" title="" pan="-241.66" description="" skinid="ht_image" tilt="-6.65" target="" id="Point05"/>
+      <hotspot url="images/pic6.jpg" title="" pan="-237.84" description="" skinid="ht_image" tilt="-18.7" target="" id="Point06"/>
+      <hotspot url="images/pic7.jpg" title="" pan="-258.64" description="" skinid="ht_image" tilt="-19.78" target="" id="Point07"/>
+      <hotspot url="images/pic8.jpg" title="" pan="-258.71" description="" skinid="ht_image" tilt="-7.03" target="" id="Point08"/>
+      <hotspot url="images/pic9.jpg" title="" pan="-259.23" description="" skinid="ht_image" tilt="1.89" target="" id="Point09"/>
+      <hotspot url="images/pic10.jpg" title="" pan="-274.75" description="" skinid="ht_image" tilt="1.9" target="" id="Point10"/>
+      <hotspot url="images/pic11.jpg" title="" pan="-276.76" description="" skinid="ht_image" tilt="-6.38" target="" id="Point11"/>
+      <hotspot url="images/pic12.jpg" title="" pan="-280.14" description="" skinid="ht_image" tilt="-18.72" target="" id="Point12"/>
+      <hotspot url="images/pic13.jpg" title="" pan="-299.61" description="" skinid="ht_image" tilt="-16.36" target="" id="Point13"/>
+      <hotspot url="images/pic14.jpg" title="" pan="-293.15" description="" skinid="ht_image" tilt="-6.06" target="" id="Point14"/>
+      <hotspot url="images/pic18.jpg" title="" pan="-288.78" description="" skinid="ht_image" tilt="1.99" target="" id="Point15"/>
+      <hotspot url="images/pic17.jpg" title="" pan="-300.95" description="" skinid="ht_image" tilt="2.06" target="" id="Point16"/>
+      <hotspot url="images/pic16.jpg" title="" pan="-306.02" description="" skinid="ht_image" tilt="-4.95" target="" id="Point17"/>
+      <hotspot url="images/pic15.jpg" title="" pan="-313.01" description="" skinid="ht_image" tilt="-13.42" target="" id="Point18"/>
+      <hotspot url="" title="Аннотация" pan="-129.96" description="     Сберечь усадьбу и дом Пушкиных до наших дней помогли болдинские крестьяне, которые собрались на общий сход в апреле 1918 года и постановили сохранить усадьбу в память о пребывании в ней  Александра Сергеевича.&#xa;&#xa;     В мультимедийной витрине - виды болдинской усадьбы конца XIX, XX, XXI вв. Фотографии сельских улиц и крестьян, принимавших участие в судьбоносном сходе. Текст  крестьянского приговора в записи болдинского старожила Ивана Васильевича Киреева.&#xa;&#xa;     Завершают экспозицию   господского дома Пушкиных три инсталляции, посвященные творчеству Александра Сергеевича 1830-1833 годов и поэме «Медный всадник»." skinid="ht_info" tilt="10.36" target="" id="Point19"/>
+      <hotspot url="images/pic_ann.jpg" title="" pan="-121.33" description="" skinid="ht_image" tilt="0.71" target="" id="Point20"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomafteroutfov="40" softedge="0" zoomin="0" zoomfov="40" zoomout="0" blendcolor="0x000000" zoomafterinfov="140" enabled="1" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
-    <control simulatemass="1" lockedwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextfullscreen="1" speedwheel="1" sensitivity="8" rubberband="0" invertcontrol="1" hideabout="0" invertwheel="0" zoomcentercursor="1" lockedmouse="0" lockedkeyboard="0" contextprojections="0" contextvr="1"/>
+    <transition enabled="1" blendcolor="0x000000" zoomout="0" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" blendtime="1" zoomoutpause="1" delay="none" zoomafteroutfov="40" zoomafterinfov="140" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" hideabout="0" speedwheel="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0" contextvr="1"/>
   </panorama>
   <masternode>
-    <userdata description="" comment="" tags="" author="" copyright="" title=""/>
+    <userdata tags="" comment="" title="" description="" author="" copyright=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
